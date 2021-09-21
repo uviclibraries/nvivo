@@ -7,4 +7,5 @@ parent: Workshop Activities
 
 # ACTIVITIES_WINDOWS
 
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
 
