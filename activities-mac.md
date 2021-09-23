@@ -33,8 +33,8 @@ parent: Workshop Activities
         - i.   Impacts
         - ii.  Barriers
         - iii. Solutions
-    - Aim to identifu at least 3 to 5 themes in each response. If you need to remove codes, highlight the piece of text, right-click and select **Uncode Selection**
-    - **Creating Code Hierarchies:** As you create more and more nodes, you may start to see a hierarchy of themes emerge. You can group nodes into parent or child categories. Using the "Impact", "Barriers", and "Solutions" themes, organize your nodes into a hierarchy. To do so, first create a new node titled "Barriers". Double click the **Coding** icon in the navigation pane to display it in the file list pane. Click the **Code** icon in the top ribbon under the **Create** tab. Click **New Code**. In the dialogue box that appears, name a new node "Barriers"
+    - Aim to identify at least 3 to 5 themes in each response. If you need to remove codes, highlight the piece of text, right-click and select **Uncode Selection**
+    - **Creating Node Hierarchies:** As you create more and more nodes, you may start to see a hierarchy of themes emerge. You can group nodes into parent or child categories. Using the "Impact", "Barriers", and "Solutions" themes, organize your nodes into a hierarchy. To do so, first create a new node titled "Barriers". Double click the **Coding** icon in the navigation pane to display it in the file list pane. Click the **Code** icon in the top ribbon under the **Create** tab. Click **New Code**. In the dialogue box that appears, name a new node "Barriers"
     - With your nodes list displayed in the file list pane, you can drag and drop the child nodes representing barriers onto the parent node to create a hierarchy. Repeat for nodes representing Impacts and Solutions
     - It can be helpful to group references from all child nodes together under a parent theme. To copy the codingfrom the child nodes to the parent node, in the list view ctrl-click the new Barriers node and select **Aggregate Coding From Children**
     - **Removing Child Nodes:** To remove a child node from a hierarchy, ctrl-click the node and select **Move to Top Level**
@@ -56,12 +56,17 @@ parent: Workshop Activities
     - Double click the copy of the file listed below the **Text Search Criteria**. The words in the search string are now highlighted within the context of the document
     - To code the highlighted text, in the **Text Search Query** click **Save Results**. In the dialogue box that appears, select **Create Results as New Node**. Next to **Location** click the arrow, then select **Nodes**
 6.  Matrix coding queries
-
+    - Matrix coding queries enable you to see coding intersections between two lists of items. For example, let's explore how our Impact codes intersect with countries
+    - First, create nodes for each country represented in the sources and apply each of them to the related text
+    - Under the **Explore** tab, click **Matrix Coding Query**. Search in **Files & Externals**. Select, drag, and drop all of the Country child Nodes into the Rows and drag and drop all of the Impact child themes nodes into the Columns text boxes. Then select **Run Query**
+    - The resulting matrix shows counts of which impacts were raised by speakers from different countries
+    - To save the query, click the **Save Results** button. The results will be saved in the **Queries** folder in the navigation pane.
 7.  Creating visualizations
-
+    - **Visualizing Query Results:** NVivo automatically creates visualizations for Queries. Re-open your saved Word Frequency Query. On the right-side og the results summary, a tab indicating **Word Cloud** is available
 8.  Exporting materials
-
+    - **Project Export:** In the rop ribbon, under **Share** click the **Export Project** icon. In the dialogue box that appears, you can browse to select where to save the file
+    - **Individual Item Export:** You can also export the codebook and other content generated in NVivo as individual files. In the top ribbon, under **Share** click the **Export** icon and select **Export Codebook**. In the dialogue box that appears, select codes and browse to select where to save the file. You can choose to save the file as either in MS Word format (\*.docx) or MS Excel (\*.xlsx)
 9.  Saving your workspace
-
+    - Your workspace is saved by NVivo as a \*.nvpx file. All of your files and outputs are saved as part of your workspace. To save, click **File** above the top ribbon, then select save. If you need to copy your workspace to another location, select **Copy Project** under the **Explore** tab.
 
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
