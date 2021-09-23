@@ -30,9 +30,9 @@ parent: Workshop Activities
     - **Highlighting Codes:** To see what portions of text in your document have been coded, at the top of the detail pane, click the Highlight icon and select **All Coding**. If you want to only see specific codes highlighted in the text, select **Coding for Selected Items** and pick from the list displayed, then click **Okay**
     - **Coding Density** To get a visual sense of the coding density of your nodes and spot patterns in the distribution of topics, turn on coding stripes. Make sure the "SouthChinaMorningPost_2019-07-18.pdf" file is visible in the detail pane. At the top of the detail pane, select the **Coding Stripes** icon and, in the drop-down menu, select **All**
     - **Key Themes:** Continue coding the rest of this document by creating nodes and applying them to the sentences they are contained in. Identify themes related to:
-        i.   Impacts
-        ii.  Barriers
-        iii. Solutions
+        - i.   Impacts
+        - ii.  Barriers
+        - iii. Solutions
     - Aim to identifu at least 3 to 5 themes in each response. If you need to remove codes, highlight the piece of text, right-click and select **Uncode Selection**
     - **Creating Code Hierarchies:** As you create more and more nodes, you may start to see a hierarchy of themes emerge. You can group nodes into parent or child categories. Using the "Impact", "Barriers", and "Solutions" themes, organize your nodes into a hierarchy. To do so, first create a new node titled "Barriers". Double click the **Coding** icon in the navigation pane to display it in the file list pane. Click the **Code** icon in the top ribbon under the **Create** tab. Click **New Code**. In the dialogue box that appears, name a new node "Barriers"
     - With your nodes list displayed in the file list pane, you can drag and drop the child nodes representing barriers onto the parent node to create a hierarchy. Repeat for nodes representing Impacts and Solutions
