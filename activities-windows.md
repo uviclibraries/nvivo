@@ -23,7 +23,7 @@ parent: Workshop Activities
     - Navigate to the two files you saved to your computer. Select the two PDFs and click **Open**
     - On the **Import Files** dialogue box that appears, select **Import**
     - In the file list pane you'll see the files listed. Icons indicate the file type: ***image*** text file; ***image*** pdf file; ***image*** audio file
-3. asdf
+3. Coding text files with nodes
     - Double click the "SouthChinaMorningPost_2019-07-18.pdf" file to display it in the detail pane. Read through the document and keep an eye out for key issues and themes brought up by each of the speakers in the 9 countries covered. In the following steps we will code and organize themes identified in the document by creating a series of nodes
     - **Coding at a new node:** The speaker from Australia mentions increasing summer temperatures. To create a node representing this theme, highlight the related sentence, right-click the highlightedtext and select **Code**. In the **Select Code Items** dialogue box that appears, select **Nodes** and click **New Node**. Title your new node "increasing temperature"
     - **Coding at an existing node:** The speaker from Vietnam also talks about increasing temperatures. Right-click the highlighted text, select **Code to Recent Nodes** and select **increasing temperature**
@@ -42,18 +42,38 @@ parent: Workshop Activities
     - **Removing Child Nodes:** To remove a child node from a hierarchy, drag the child node to the **Nodes** icon in the navigation pane
     - **Viewing node references:** To view all the pieves of text coded at a given node, from the **Nodes** list double click the desired node. This will open up a window in the detail pane with all the references.
     - Time permitting, repeat the above exercise for the "WashingtonPost_2020-02-03.pdf" file continuing to use and build upon your themes hierarchy
-4. asdf
-
-5. asdf
-
-6. asdf
-
-7. asdf
-
-8. asdf
-
-9. asdf
-
+4. Word frequency queries
+    - Running a word frequency query can help you establish nodes prior to coding and give you a sense of the content of your file. Click the **Explore** tab in the Top Ribbon, and then click the **Word Frequency** icon
+    - The **Word Frequency Criteria** menu opens in a new window. Click the **Search in Selectec Items** button to choose which file(s) to search. In the dialogue box that appears, select the "WashingtonPost_2020-02-03.pdf" file, then click **Okay**
+    - In the **Word Frequency Criteria** menu, you can adjust the parameters of your search, including the number of results to display, the minimum word character length for inclusion in the search, and how to group similar words together in the search. Click **Run Query** to execute the word frequency calculation. How do the results compare with your nodes?
+    - Try modifying these parameters and see how your results change. Make sure to click **Run Query** each time to re-execute the query
+    - Right-click terms you want to exclude from your results and select **Add to Stop Words List**. To view words in the stop word list, click the **File** tab then **Project Properties**. On the **General** tab click the **Stop Words** button
+    - To save the query, click the **Add to Project** button. The results will be saved in the **Queries** folder under the Search heading in the navigation pane
+5. Text search queries
+    - Text search queries allow you to search for particular words or phrases within and across the documents you have imported into NVivo. Click the **Explore** tab in the Top Ribbon and then click the **Text Search** icon
+    - The **Text Search Criteria** menu opens in a new window. Click the **Search in Selected Items** button to choose which file(s) to search. In the **Select Project Items** dialogue box that appears, select the "WashingtonPost_2020-02-03.pdf" text file, then click **Okay**
+    - Open the **Nodes** list in the list view pane. Let's see whether any of the themes we identified in the first interview are also discussed in the second interview
+    - Enter the term "drought" inro the text box and click **Run Query**. 1 reference should be found
+    - Play around with some of your other nodes and search options: with stemmed words, with synonyms etc. Some samples to try including: disaster, displace, lobby, activism, coral etc.
+    - Double click the copy of the file listed below the **Text Search Criteria**. The words in the searchstring are now highlighted within the context of the document
+    - To code the highlighted text, in the **Text Search Query** click **Save Results**. In the dialogue box that appears, select **Create Results as New Node**. Next to **Location** click the arrow then select **Nodes**
+6. Matrix coding queries
+    - Matrix coding queries enable you to see coding intersections between two lists of items. For example, let's explore how our Impact codes intersect with countries
+    - First create nodes for each country represented in the sources and apply each of them to the related text
+    - Under the **Query** tab, click **Matrix Coding**. Search in **Files & Externals**. Set **Coding** at rows AND columns. Select, drag, and drop all of the Country child Nodes into the Rows and drag and drop all of the Impact child themes nodes into the Columns text boxes. Then, select **Run Query**
+    - The resulting matrix shows counts of which impacts were raised by speakers from different countries
+    - To save the query, click the **Add to Project** button. The results will be saved in the **Queries** folder under the **Search** heading in the navigation pane
+7. Creating Visualizations
+    - **Visualizing Query Results:** NVivo automatically creates visualizations for queries. Re-open your saved word frequency query. On the right-side of the results summary, tabs indicating **Word Cloud** and **Tree Map** are available
+    - For matrix queries and crosstab queries, you can display your results as a chart. Re-open your saved matrix query. On the right-side of the results summary click the **Chart** tab. By default, NVivo will create a 3D visualization to represent your results. This can be changed or customized using the **Chart** tools displayed on the Top Ribbon
+8. Exporting materials
+    - **Reports and Extracts:** NVivo automatically generates a series of reports to summarize your work. In the navigation pane, expand the **Output** heading. Two options should be listed: reports and extracts. Reports are meant to be read as documents, whereas extracts can be imported into spreadsheets
+    - Click the **Reports** icon in the navigation pane. A series of reporting options should appear in the file list pane. Let's create a report summarizing our coding scheme. Click **Coding Summary by Code Report**. In the **Filter Options** dialogue box that appears, click **Okay**. In the detail pane, a document should open, which summarizes ingotmation on each of the codes in the hierarchy and lists the coded text
+    - For comparison, click the **Extracts** icon in the navigation pane. Click **Coding Summary by Code Report** in the file list pane. In the **Filter Options** dialogue box that appears, click **Okay**. NVivo will ask you to save this document locally as a \*.txt file. This file can now be opened by programs like Excel. Column structure is maintained by comma delineation
+    - **Individual Item Export:** You can also export the codebook and other content generated in NVivo as individual files. In the navigation pane under **Codes**, right-click **Nodes** and select **Export Codebook**. In the dialogue box that appears, you can browse to select where to save the file. You can choose to save the file either in MS Word format (\*.docx) or MS Excel (\*.xlsx)
+9. Saving your workspace
+    - Your workspace is saved by NVivo as a \*.nvp file. All of your files and outputs are saved as part of your workspace. to save, click **File** above the top ribbon, then select **Save**. If you need to copy your workspace to another location, click **File** and then select **Copy Project**
+    - To review your actions taken in the workshop, click **File** above the top ribbon, then click **Open Project Event Log**
 
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
 
