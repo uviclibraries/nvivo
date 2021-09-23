@@ -50,7 +50,11 @@ parent: Workshop Activities
 5.  Text search queries
     - Text search queries allow you to search for particular words or phrases within and across the documents you have imported into NVivo. Click the **Explore** tab in the Top Ribbon, and then click the **Text Search** icon
     - The **Text Search Criteria** menu opens in a new window. Click the **Search in Selected Items** button to choose which file(s) to search. In the dialogue box that appears, select the "WashingtonPost_2020-02-03.pdf" text file, then click **Select**
-    - Open the list of nodes in the file list
+    - Open the list of nodes in the file list view pane. Let's see whether any of the themes we identified in the first debate are also discussed in the second debate
+    - Enter the term "drought" into the text search box and click **Run Query**. 1 reference should be found
+    - Play around with some of your other nodes and search options (stemmed words). Some samples to try include: disaster, displace, lobby, activism, coral etc.
+    - Double click the copy of the file listed below the **Text Search Criteria**. The words in the search string are now highlighted within the context of the document
+    - To code the highlighted text, in the **Text Search Query** click **Save Results**. In the dialogue box that appears, select **Create Results as New Node**. Next to **Location** click the arrow, then select **Nodes**
 6.  Matrix coding queries
 
 7.  Creating visualizations
