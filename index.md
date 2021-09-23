@@ -9,11 +9,11 @@ nav_order: 1
 
 - Pre-workshop activities: 15 min 
 - Introductory presentation: 10 min
-- Hands-on activities: 60 min (Part 1) or 90 min (Part 2)
+- Hands-on activities: 60 min
 
 ## Why NVivo?
 
-**TODO: FILL OUT THIS SECTION**
+# **BETTER INTRO HERE**
 
 [TOOL NAME](https://TOOL-URL-HERE.org/){:target="_blank"} Desribe the tool and how it can be used. This is an example of the description for Taguette:
 
