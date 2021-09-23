@@ -11,7 +11,7 @@ parent: Workshop Activities
     - Open NVivo and select **Create a New Project**
     - In the dialogue box that opens, save your project as "2019 Youth Climate March News Analysis"
     - Choose where to save your project
-    - click **Create Project**
+    - click **Create Project**<br>
     **There are 4 key areas of the NVivo workspace**
         - Top Ribbon - all of the commands and options in NVivo are found here
         - Navigation Pane - where you view and organize your files
