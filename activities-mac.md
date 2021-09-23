@@ -44,7 +44,7 @@ parent: Workshop Activities
     - Running a word frequency query can help you establish nodes prior to coding and give you a sense of the content of your file. Click the **Explore** tab in the Top Ribbon, and then click the **Word Frequency** icon
     - The **Word Frequency Criteria** menu opens in a new window. Click the **Search in Selectec Items** button to choose which file(s) to search. In the dialogue box that appears, select the "WashingtonPost_2020-02-03.pdf" file, then click **Okay**
     - In the **Word Frequency Criteria** menu, you can adjust the parameters of your search, including the number of results to display, the minimum word character length for inclusion in the search, and how to group similar words together in the search. Click **Run Query** to execute the word frequency calculation. How do the results compare with your nodes?
-    - Try modifying these parameters and see how your results change. Make sure to click **Run Query** each time to re-execute the query.
+    - Try modifying these parameters and see how your results change. Make sure to click **Run Query** each time to re-execute the query
     - Ctrl-click terms you want to exclude from your results and select **Add to Stop Words List**. To view words in the stop word choose **File** then **Project Properties**, click **General** and then click the **Stop Words** button
     - To save the query, click the **Save Criteria** button. The results will be saved in the **Queries** folder in the navigation pane.
 5.  Text search queries
