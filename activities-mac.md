@@ -15,7 +15,7 @@ parent: Workshop Activities
     - In the dialogue box that opens, save your project as "2019 Youth Climate March News Analysis"
     - Choose where to save your project
     - click **Create Project**<br>
-    **There are 4 key areas of the NVivo workspace**
+    **There are 4 key areas of the NVivo workspace:**
         - Top Ribbon - all of the commands and options in NVivo are found here
         - Navigation Pane - where you view and organize your files
         - File List Pane - displays contents of folders selected in the navigation pane
