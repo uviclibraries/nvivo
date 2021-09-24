@@ -15,8 +15,8 @@ parent: Workshop Activities
     **There are 4 key areas of the NVivo workspace:**
         - Top Ribbon - all of the commands and options in NVivo are found here
         - Navigation Pane - where you view and organize your files
-        - File list pane - displays contents of folders selected in the navigation pane
-        - Detail pane - displays contents of files and project items
+        - File List Pane - displays contents of folders selected in the navigation pane
+        - Detail Pane - displays contents of files and project items
 2. Importing your files
     - Download the two workshop activity files from [this directory](https://bit.ly/DSC_NVIVO_Activity_1_Files){:target="_blank"}
     - Select the **Import** tab on the top ribbon and then select **Files**
