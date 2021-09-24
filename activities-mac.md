@@ -7,7 +7,7 @@ parent: Workshop Activities
 
 # Activity: Youth Climate Marches
 
-1.  Creating a project and navigating the workspace
+1.  ***Creating a project and navigating the workspace***
     - Open NVivo and select **Create a New Project**
     - In the dialogue box that opens, save your project as "2019 Youth Climate March News Analysis"
     - Choose where to save your project
@@ -17,12 +17,12 @@ parent: Workshop Activities
         - Navigation Pane - where you view and organize your files
         - File List Pane - displays contents of folders selected in the navigation pane
         - Detail Pane - displays contents of files and project items
-2.  Importing your files
+2.  ***Importing your files***
     - Download the two workshop activity files from [this directory](https://bit.ly/DSC_NVIVO_Activity_1_Files){:target="_blank"}
     - Select the **Import** tab on the top ribbon, and then **Files**, and then from the drop-down menu choose **Documents**
     - Navigate to the two files you just downloaded. Select the two text files and click **Import**
     - In the file list pane you'll see the files listed. Icons indicate the file type: ***image*** text file; ***image*** pdf file; ***image*** audio file
-3.  Coding text files with nodes
+3.  ***Coding text files with nodes***
     - Select the **Files** icon in the Navigation pane and double click the "SouthChinaMorningPost_2019-07-18.pdf" text file listed in the File List pane to open it in the Detail pane. Read through the document and keep an eye out for key issues and themes brought up by each of the speakers in the 9 countries covered. In the following steps we will code and organize themes identified in the document by creating a series of nodes.
     - **Coding at a new node:** The speaker from Australia mentions increasing summer temperatures. To create a node representing this theme, highlight the related sentence, ctrl-click the highlighted text and select **Code Selection** and then **At New Code**. Title your new Node "increasing temperature"
     - **Coding at an existing node:** The speaker from Vietnam also talks about increasing temperatures. Ctrl-click the highlighted text, select **Code Selection** and then **To Existing Codes and Cases** and select "increasing temperature"
@@ -40,14 +40,14 @@ parent: Workshop Activities
     - **Removing Child Nodes:** To remove a child node from a hierarchy, ctrl-click the node and select **Move to Top Level**
     - **Viewing Node References** To view all the pieces of text coded at a given node, from the file list pane double click the desired node. This will open up a window in the detail pane with all the references.
     - Time permitting, repeat the above exercise for the "WashingtonPost_2020-02-03.pdf" file continuing to use and build upon your themes hierarchy
-4.  Word frequency queries
+4.  ***Word frequency queries***
     - Running a word frequency query can help you establish nodes prior to coding and give you a sense of the content of your file. Click the **Explore** tab in the Top Ribbon, and then click the **Word Frequency** icon
     - The **Word Frequency Criteria** menu opens in a new window. Click the **Search in Selected Items** button to choose which file(s) to search. In the dialogue box that appears, select the "WashingtonPost_2020-02-03.pdf" file, then click **Okay**
     - In the **Word Frequency Criteria** menu, you can adjust the parameters of your search, including the number of results to display, the minimum word character length for inclusion in the search, and how to group similar words together in the search. Click **Run Query** to execute the word frequency calculation. How do the results compare with your nodes?
     - Try modifying these parameters and see how your results change. Make sure to click **Run Query** each time to re-execute the query
     - Ctrl-click terms you want to exclude from your results and select **Add to Stop Words List**. To view words in the stop word list choose **File** then **Project Properties**, click **General** and then click the **Stop Words** button
     - To save the query, click the **Save Criteria** button. The results will be saved in the **Queries** folder in the navigation pane.
-5.  Text search queries
+5.  ***Text search queries***
     - Text search queries allow you to search for particular words or phrases within and across the documents you have imported into NVivo. Click the **Explore** tab in the Top Ribbon, and then click the **Text Search** icon
     - The **Text Search Criteria** menu opens in a new window. Click the **Search in Selected Items** button to choose which file(s) to search. In the dialogue box that appears, select the "WashingtonPost_2020-02-03.pdf" text file, then click **Select**
     - Open the list of nodes in the file list view pane. Let's see whether any of the themes we identified in the first debate are also discussed in the second debate
@@ -55,18 +55,18 @@ parent: Workshop Activities
     - Play around with some of your other nodes and search options (stemmed words). Some samples to try including: disaster, displace, lobby, activism, coral etc.
     - Double click the copy of the file listed below the **Text Search Criteria**. The words in the search string are now highlighted within the context of the document
     - To code the highlighted text, in the **Text Search Query** click **Save Results**. In the dialogue box that appears, select **Create Results as New Node**. Next to **Location** click the arrow, then select **Nodes**
-6.  Matrix coding queries
+6.  ***Matrix coding queries***
     - Matrix coding queries enable you to see coding intersections between two lists of items. For example, let's explore how our Impact codes intersect with countries
     - First, create nodes for each country represented in the sources and apply each of them to the related text
     - Under the **Explore** tab, click **Matrix Coding Query**. Search in **Files & Externals**. Select, drag, and drop all of the Country child Nodes into the Rows and drag and drop all of the Impact child themes nodes into the Columns text boxes. Then select **Run Query**
     - The resulting matrix shows counts of which impacts were raised by speakers from different countries
     - To save the query, click the **Save Results** button. The results will be saved in the **Queries** folder in the navigation pane.
-7.  Creating visualizations
+7.  ***Creating visualizations***
     - **Visualizing Query Results:** NVivo automatically creates visualizations for Queries. Re-open your saved Word Frequency Query. On the right-side of the results summary, a tab indicating **Word Cloud** is available
-8.  Exporting materials
+8.  ***Exporting materials***
     - **Project Export:** In the rop ribbon, under **Share** click the **Export Project** icon. In the dialogue box that appears, you can browse to select where to save the file
     - **Individual Item Export:** You can also export the codebook and other content generated in NVivo as individual files. In the top ribbon, under **Share** click the **Export** icon and select **Export Codebook**. In the dialogue box that appears, select codes and browse to select where to save the file. You can choose to save the file as either in MS Word format (\*.docx) or MS Excel (\*.xlsx)
-9.  Saving your workspace
+9.  ***Saving your workspace***
     - Your workspace is saved by NVivo as a \*.nvpx file. All of your files and outputs are saved as part of your workspace. To save, click **File** above the top ribbon, then select save. If you need to copy your workspace to another location, select **Copy Project** under the **Explore** tab.
 
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
