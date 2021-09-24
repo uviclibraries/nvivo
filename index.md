@@ -3,7 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="WORKSHOP-LOGO-HERE.png" alt="image description" style="float:right;width:180px;"> 
+<img src="images\logo.png" alt="nvivo icon" style="float:right;width:180px;">
 
 # Qualitative Data Curation & Analysis with NVivo
 
