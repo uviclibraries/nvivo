@@ -7,7 +7,7 @@ parent: Workshop Activities
 
 # Activity: Youth Climate Marches
 
-1.  Creating a project and navigating the workspace{: .label .label-yellow }
+1.  Creating a project and navigating the workspace {: .label .label-yellow }
     - Open NVivo and select **Create a New Project**
     - In the dialogue box that opens, save your project as "2019 Youth Climate March News Analysis"
     - Choose where to save your project
