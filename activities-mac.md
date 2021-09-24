@@ -7,7 +7,8 @@ parent: Workshop Activities
 
 # Activity: Youth Climate Marches
 
-test this {: .label .label-yellow }
+test this
+{: .label .label-yellow }
 
 1.  [Creating a project and navigating the workspace]{: .label .label-yellow }
     - Open NVivo and select **Create a New Project**
