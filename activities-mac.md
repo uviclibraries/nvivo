@@ -7,12 +7,6 @@ parent: Workshop Activities
 
 # Activity: Youth Climate Marches
 
-1.  test this
-    {: .label .label-yellow }<br>
-
-2.  test THIS
-    {: .label .label-yellow }<br>
-
 1.  [Creating a project and navigating the workspace]{: .label .label-yellow }
     - Open NVivo and select **Create a New Project**
     - In the dialogue box that opens, save your project as "2019 Youth Climate March News Analysis"
