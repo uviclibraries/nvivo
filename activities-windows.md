@@ -8,7 +8,6 @@ parent: Workshop Activities
 # ACTIVITY: Youth Climate March News Analysis
 
 gifs needed:
-3h uncode selection
 3k parent child nodes
 3m viewing node references
 4f word search queries
