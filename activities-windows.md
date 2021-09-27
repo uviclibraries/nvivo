@@ -7,6 +7,21 @@ parent: Workshop Activities
 
 # ACTIVITY: Youth Climate March News Analysis
 
+gifs needed:
+2d importing files;documents;southchinamorningpost
+3b coding at new node
+3c coding at existing node
+3d multiple themes for one text
+3e highlight codes
+3f coding stripes
+3h uncode selection
+3k parent child nodes
+3m viewing node references
+4f word search queries
+5g text search query
+6e matrix coding query
+7a visualizing query results
+
 1. ***Creating a project and navigating the workspace***
     - Open NVivo and select **Blank Project**
     - In the **New Project** dialogue box that opens, enter a title for your project "2019 Youth Climate March News Analysis"
