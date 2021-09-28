@@ -29,9 +29,9 @@ parent: Workshop Activities
     - Navigate to the two files you just downloaded. Select the two text files and click **Import**
     - In the file list pane you'll see the files listed. Icons indicate the file type: ***image*** text file; ***image*** pdf file; ***image*** audio file
 
-    <img src="images\icon-txt.png" alt="text icon" style="width:30px;">
-    <img src="images\icon-aud.png" alt="audio icon" style="width:30px;">
-    <img src="images\icon-pdf.png" alt="pdf icon" style="width:30px;">
+    <img src="images\icon-txt.png" alt="text icon" style="width:30px;">   **text file**
+    <img src="images\icon-aud.png" alt="audio icon" style="width:30px;">   **audio file**
+    <img src="images\icon-pdf.png" alt="pdf icon" style="width:30px;">   **pdf file**
     
     <img src="images\mac instructions\import-files.gif" alt="importing files" style="width:480px;">
 
