@@ -7,7 +7,7 @@ parent: Workshop Activities
 
 # Activity: Youth Climate Marches
 
-<img src="images\mac instructions\new-project.png" alt="create new project" style="float:right;width:180px;">
+<img src="images\mac instructions\new-project.png" alt="create new project" style="float:right;width:180px;"><br>
 <img src="images\mac instructions\new-project-menu.png" alt="new project menu" style="float:right;width:180px;">
 
 1.  ***Creating a project and navigating the workspace***
@@ -73,10 +73,10 @@ parent: Workshop Activities
     <img src="images\mac instructions\code-hierarchy.gif" alt="coding hierarchy" style="width:720px;">
     
     - **Removing Child Nodes:** To remove a child node from a hierarchy, ctrl-click the node and select **Move to Top Level**
-    - **Viewing Node References** To view all the pieces of text coded at a given node, from the file list pane double click the desired node. This will open up a window in the detail pane with all the references.
     
     <img src="images\mac instructions\undo-code-hierarchy.gif" alt="undo code hierarchy" style="width:720px;">
     
+    - **Viewing Node References** To view all the pieces of text coded at a given node, from the file list pane double click the desired node. This will open up a window in the detail pane with all the references.
     - Time permitting, repeat the above exercise for the "WashingtonPost_2020-02-03.pdf" file continuing to use and build upon your themes hierarchy
 
     <img src="images\mac instructions\last-of-step-3.png" alt="complete coded document" style="width:720px;">
