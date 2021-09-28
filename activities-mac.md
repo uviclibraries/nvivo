@@ -29,30 +29,30 @@ parent: Workshop Activities
     - Navigate to the two files you just downloaded. Select the two text files and click **Import**
     - In the file list pane you'll see the files listed. Icons indicate the file type: ***image*** text file; ***image*** pdf file; ***image*** audio file
 
-    <img src="images\arduino-icon.png" alt="arduino icon" style="width:180px;">
-    <img src="images\arduino-icon.png" alt="arduino icon" style="width:180px;">
-    <img src="images\arduino-icon.png" alt="arduino icon" style="width:180px;">
+    <img src="images\mac instructions\icon-txt.png" alt="text icon" style="width:180px;">
+    <img src="images\mac instructions\icon-aud.png" alt="audio icon" style="width:180px;">
+    <img src="images\mac instructions\icon-pdf.png" alt="pdf icon" style="width:180px;">
     
-    <img src="images\arduino-icon.png" alt="arduino icon" style="width:180px;">
+    <img src="images\mac instructions\import-files.gif" alt="importing files" style="width:180px;">
 
 3.  ***Coding text files with nodes***
     - Select the **Files** icon in the Navigation pane and double click the "SouthChinaMorningPost_2019-07-18.pdf" text file listed in the File List pane to open it in the Detail pane. Read through the document and keep an eye out for key issues and themes brought up by each of the speakers in the 9 countries covered. In the following steps we will code and organize themes identified in the document by creating a series of nodes.
     - **Coding at a new node:** The speaker from Australia mentions increasing summer temperatures. To create a node representing this theme, highlight the related sentence, ctrl-click the highlighted text and select **Code Selection** and then **At New Code**. Title your new Node "increasing temperature"
 
-    <img src="images\arduino-icon.png" alt="arduino icon" style="width:180px;">
-    <img src="images\arduino-icon.png" alt="arduino icon" style="width:180px;">
+    <img src="images\mac instructions\new-node-coding.gif" alt="coding at new node" style="width:180px;">
+    <img src="images\mac instructions\new-node-coding.png" alt="menu for coding at new node" style="width:180px;">
     
     - **Coding at an existing node:** The speaker from Vietnam also talks about increasing temperatures. Ctrl-click the highlighted text, select **Code Selection** and then **To Existing Codes and Cases** and select "increasing temperature"
     
-    <img src="images\arduino-icon.png" alt="arduino icon" style="width:180px;">
+    <img src="images\mac instructions\old-node-coding.gif" alt="coding at existing node" style="width:180px;">
     
     - You can code the same pieces of text as multiple themes. In this same text we coded as "increasing temperature" from the Australian speaker, they also mention coral bleaching. Create a new node for this topic and recode this sentence
     
-    <img src="images\arduino-icon.png" alt="arduino icon" style="width:180px;">
+    <img src="images\mac instructions\multi-themes.gif" alt="coding multiple themes" style="width:180px;">
     
     - **Highlighting Codes:** To see what portions of text in your document have been coded, at the top of the detail pane, click the **Highlight** icon and select **All Coding**. If you want to only see specific codes highlighted in the text, select **Coding for Selected Items** and pick from the list displayed, then click **Okay**
     
-    <img src="images\arduino-icon.png" alt="arduino icon" style="width:180px;">
+    <img src="images\mac instructions\highlighting-code.gif" alt="highlighting code" style="width:180px;">
     
     - **Coding Density** To get a visual sense of the coding density of your nodes and spot patterns in the distribution of topics, turn on coding stripes. Make sure the "SouthChinaMorningPost_2019-07-18.pdf" file is visible in the detail pane. At the top of the detail pane, select the **Coding Stripes** icon and, in the drop-down menu, select **All**
     
