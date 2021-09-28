@@ -7,7 +7,7 @@ parent: Workshop Activities
 
 # Activity: Youth Climate Marches
 
-<img src="images\logo.png" alt="nvivo logo" style="float:right;width:180px;">
+<img src="images\mac instructions\new-project.png" alt="create new project" style="float:right;width:180px;">
 <img src="images\arduino-icon.png" alt="arduino icon" style="float:right;width:180px;">
 
 1.  ***Creating a project and navigating the workspace***
