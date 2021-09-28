@@ -106,7 +106,7 @@ parent: Workshop Activities
     - Double click the copy of the file listed below the **Text Search Criteria**. The words in the search string are now highlighted within the context of the document
     - To code the highlighted text, in the **Text Search Query** click **Save Results**. In the dialogue box that appears, select **Create Results as New Node**. Next to **Location** click the arrow, then select **Nodes**
 
-    <img src="images\arduino-icon.png" alt="arduino icon" style="width:180px;">
+    <img src="images\mac instructions\save-text-query.gif" alt="text search query demo" style="width:180px;">
 
 6.  ***Matrix coding queries***
     - Matrix coding queries enable you to see coding intersections between two lists of items. For example, let's explore how our Impact codes intersect with countries
@@ -115,13 +115,13 @@ parent: Workshop Activities
     - The resulting matrix shows counts of which impacts were raised by speakers from different countries
     - To save the query, click the **Save Results** button. The results will be saved in the **Queries** folder in the navigation pane.
 
-    <img src="images\arduino-icon.png" alt="arduino icon" style="width:180px;">
-    <img src="images\arduino-icon.png" alt="arduino icon" style="width:180px;">
+    <img src="images\mac instructions\save-matrix-query.gif" alt="matrix query demo" style="width:180px;">
+    <img src="images\mac instructions\matrix-query.gif" alt="matrix query" style="width:180px;">
 
 7.  ***Creating visualizations***
     - **Visualizing Query Results:** NVivo automatically creates visualizations for Queries. Re-open your saved Word Frequency Query. On the right-side of the results summary, a tab indicating **Word Cloud** is available
 
-    <img src="images\arduino-icon.png" alt="arduino icon" style="width:180px;">
+    <img src="images\mac instructions\visualize-query.gif" alt="creating visualizations" style="width:180px;">
 
 8.  ***Exporting materials***
     - **Project Export:** In the rop ribbon, under **Share** click the **Export Project** icon. In the dialogue box that appears, you can browse to select where to save the file
