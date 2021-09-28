@@ -101,7 +101,7 @@ parent: Workshop Activities
     - Enter the term "drought" into the text search box and click **Run Query**. 1 reference should be found
     - Play around with some of your other nodes and search options (stemmed words). Some samples to try including: disaster, displace, lobby, activism, coral etc.
     
-    <img src="images\arduino-icon.png" alt="arduino icon" style="width:720px;">
+    <img src="images\mac instructions\text-search-menu.png" alt="text search menu" style="width:720px;">
     
     - Double click the copy of the file listed below the **Text Search Criteria**. The words in the search string are now highlighted within the context of the document
     - To code the highlighted text, in the **Text Search Query** click **Save Results**. In the dialogue box that appears, select **Create Results as New Node**. Next to **Location** click the arrow, then select **Nodes**
