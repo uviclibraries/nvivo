@@ -27,11 +27,11 @@ parent: Workshop Activities
     - Download the two workshop activity files from [this directory](https://bit.ly/DSC_NVIVO_Activity_1_Files){:target="_blank"}
     - Select the **Import** tab on the top ribbon, and then **Files**, and then from the drop-down menu choose **Documents**
     - Navigate to the two files you just downloaded. Select the two text files and click **Import**
-    - In the file list pane you'll see the files listed. Icons indicate the file type: ***image*** text file; ***image*** pdf file; ***image*** audio file
+    - In the file list pane you'll see the files listed. Icons indicate the file type:
 
-    <img src="images\icon-txt.png" alt="text icon" style="width:30px;">   **text file**
-    <img src="images\icon-aud.png" alt="audio icon" style="width:30px;">   **audio file**
-    <img src="images\icon-pdf.png" alt="pdf icon" style="width:30px;">   **pdf file**
+    **text file:**<img src="images\icon-txt.png" alt="text icon" style="width:30px;">
+    **audio file:**<img src="images\icon-aud.png" alt="audio icon" style="width:30px;">
+    **pdf file:**<img src="images\icon-pdf.png" alt="pdf icon" style="width:30px;">
     
     <img src="images\mac instructions\import-files.gif" alt="importing files" style="width:720px;">
 
