@@ -44,10 +44,23 @@ gifs needed:
 3. ***Coding text files with nodes***
     - Double click the "SouthChinaMorningPost_2019-07-18.pdf" file to display it in the detail pane. Read through the document and keep an eye out for key issues and themes brought up by each of the speakers in the 9 countries covered. In the following steps we will code and organize themes identified in the document by creating a series of nodes
     - **Coding at a new node:** The speaker from Australia mentions increasing summer temperatures. To create a node representing this theme, highlight the related sentence, right-click the highlighted text and select **Code**. In the **Select Code Items** dialogue box that appears, select **Nodes** and click **New Node**. Title your new node "increasing temperature"
+
+    <img src="images\windows instructions\windows-new-code.gif" alt="coding at new node" style="width:30px;">
+    <img src="images\windows instructions\logo.png" alt="menus overview" style="width:30px;">
+
     - **Coding at an existing node:** The speaker from Vietnam also talks about increasing temperatures. Right-click the highlighted text, select **Code to Recent Nodes** and select **increasing temperature**
+
+    <img src="images\windows instructions\windows-code-exist.gif" alt="coding at existing node" style="width:30px;">
+
     - You can code the same pieces of text as multiple themes. In this same text that we coded as "increasing temperature" from the Australian speaker, they also mention coral bleaching. Create a new node for this topic and recode this sentence
+
+    <img src="images\windows instructions\windows-recode.gif" alt="recoding text" style="width:30px;">
+
     - **Quick Coding Bar:** The coding bar at the bottom of the workspace can be a quick way to code text. Select the text in your file you wish to code. On the quick coding bar, type the name of a new or existing node (as you start typing, the names of nodes will start to show up), and then click enter on your keyboard
     - **Highlighting Codes:** To see what portions of text in your document have been coded, in the top ribbon under the **Document** tab click the **Highlight** icon and select **All Coding**. If you want to only see specific codes highlighted in the text, select **Coding for Selected Items** and pick from the list displayed, then click **Okay**
+
+    <img src="images\windows instructions\windows-highlight.gif" alt="menus overview" style="width:30px;">
+
     - **Coding Density:** To get a visual sense of the coding density of your nodes and spot patterns in the distribution of topics, turn on coding stripes. Make sure the "SouthChinaMorningPost_2019-07-18.pdf" file is visible in the detail pane. In the top ribbon, select the **Document** tab, click the **Coding Stripes** icon and, in the drop-down menu, select **All Coding**
     - **Key Themes:** Continue coding the rest of this document by creating nodes and applying them to the sentences they are contained in. Identify themes related to:
         - i.   Impacts
