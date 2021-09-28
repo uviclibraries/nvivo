@@ -25,12 +25,22 @@ gifs needed:
         - Navigation Pane - where you view and organize your files
         - File List Pane - displays contents of folders selected in the navigation pane
         - Detail Pane - displays contents of files and project items
+
+    <img src="images\windows instructions\logo.png" alt="menus overview" style="width:30px;">
+
 2. ***Importing your files***
     - Download the two workshop activity files from [this directory](https://bit.ly/DSC_NVIVO_Activity_1_Files){:target="_blank"}
     - Select the **Import** tab on the top ribbon and then select **Files**
     - Navigate to the two files you saved to your computer. Select the two PDFs and click **Open**
     - On the **Import Files** dialogue box that appears, select **Import**
-    - In the file list pane you'll see the files listed. Icons indicate the file type: ***image*** text file; ***image*** pdf file; ***image*** audio file
+    - In the file list pane you'll see the files listed. Icons indicate the file type:
+
+    **text file:**<img src="images\icon-txt.png" alt="text icon" style="width:30px;">
+    **audio file:**<img src="images\icon-aud.png" alt="audio icon" style="width:30px;">
+    **pdf file:**<img src="images\icon-pdf.png" alt="pdf icon" style="width:30px;">
+    
+    <img src="images\windows instructions\windows-import.gif" alt="importing files" style="width:30px;">
+
 3. ***Coding text files with nodes***
     - Double click the "SouthChinaMorningPost_2019-07-18.pdf" file to display it in the detail pane. Read through the document and keep an eye out for key issues and themes brought up by each of the speakers in the 9 countries covered. In the following steps we will code and organize themes identified in the document by creating a series of nodes
     - **Coding at a new node:** The speaker from Australia mentions increasing summer temperatures. To create a node representing this theme, highlight the related sentence, right-click the highlighted text and select **Code**. In the **Select Code Items** dialogue box that appears, select **Nodes** and click **New Node**. Title your new node "increasing temperature"
