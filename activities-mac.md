@@ -29,9 +29,9 @@ parent: Workshop Activities
     - Navigate to the two files you just downloaded. Select the two text files and click **Import**
     - In the file list pane you'll see the files listed. Icons indicate the file type: ***image*** text file; ***image*** pdf file; ***image*** audio file
 
-    <img src="images\mac instructions\icon-txt.png" alt="text icon" style="width:180px;">
-    <img src="images\mac instructions\icon-aud.png" alt="audio icon" style="width:180px;">
-    <img src="images\mac instructions\icon-pdf.png" alt="pdf icon" style="width:180px;">
+    <img src="images\icon-txt.png" alt="text icon" style="width:180px;">
+    <img src="images\icon-aud.png" alt="audio icon" style="width:180px;">
+    <img src="images\icon-pdf.png" alt="pdf icon" style="width:180px;">
     
     <img src="images\mac instructions\import-files.gif" alt="importing files" style="width:180px;">
 
@@ -56,7 +56,7 @@ parent: Workshop Activities
     
     - **Coding Density** To get a visual sense of the coding density of your nodes and spot patterns in the distribution of topics, turn on coding stripes. Make sure the "SouthChinaMorningPost_2019-07-18.pdf" file is visible in the detail pane. At the top of the detail pane, select the **Coding Stripes** icon and, in the drop-down menu, select **All**
     
-    <img src="images\arduino-icon.png" alt="arduino icon" style="width:180px;">
+    <img src="images\mac instructions\coding-density.gif" alt="coding density" style="width:180px;">
     
     - **Key Themes:** Continue coding the rest of this document by creating nodes and applying them to the sentences they are contained in. Identify themes related to:
         - i.   Impacts
@@ -64,32 +64,35 @@ parent: Workshop Activities
         - iii. Solutions
     - Aim to identify at least 3 to 5 themes in each response. If you need to remove codes, highlight the piece of text, right-click and select **Uncode Selection**
     
-    <img src="images\arduino-icon.png" alt="arduino icon" style="width:180px;">
+    <img src="images\mac instructions\uncode-selection.gif" alt="uncode" style="width:180px;">
     
     - **Creating Node Hierarchies:** As you create more and more nodes, you may start to see a hierarchy of themes emerge. You can group nodes into parent or child categories. Using the "Impact", "Barriers", and "Solutions" themes, organize your nodes into a hierarchy. To do so, first create a new node titled "Barriers". Double click the **Coding** icon in the navigation pane to display it in the file list pane. Click the **Code** icon in the top ribbon under the **Create** tab. Click **New Code**. In the dialogue box that appears, name a new node "Barriers"
     - With your nodes list displayed in the file list pane, you can drag and drop the child nodes representing barriers onto the parent node to create a hierarchy. Repeat for nodes representing Impacts and Solutions
     - It can be helpful to group references from all child nodes together under a parent theme. To copy the coding from the child nodes to the parent node, in the list view ctrl-click the new Barriers node and select **Aggregate Coding From Children**
     
-    <img src="images\arduino-icon.png" alt="arduino icon" style="width:180px;">
+    <img src="images\mac instructions\code-hierarchy.gif" alt="coding hierarchy" style="width:180px;">
     
     - **Removing Child Nodes:** To remove a child node from a hierarchy, ctrl-click the node and select **Move to Top Level**
     - **Viewing Node References** To view all the pieces of text coded at a given node, from the file list pane double click the desired node. This will open up a window in the detail pane with all the references.
     
-    <img src="images\arduino-icon.png" alt="arduino icon" style="width:180px;">
+    <img src="images\mac instructions\undo-code-hierarchy.gif" alt="undo code hierarchy" style="width:180px;">
     
     - Time permitting, repeat the above exercise for the "WashingtonPost_2020-02-03.pdf" file continuing to use and build upon your themes hierarchy
+
+    <img src="images\mac instructions\last-of-step-3.png" alt="complete coded document" style="width:180px;">
+
 4.  ***Word frequency queries***
     - Running a word frequency query can help you establish nodes prior to coding and give you a sense of the content of your file. Click the **Explore** tab in the Top Ribbon, and then click the **Word Frequency** icon
     - The **Word Frequency Criteria** menu opens in a new window. Click the **Search in Selected Items** button to choose which file(s) to search. In the dialogue box that appears, select the "WashingtonPost_2020-02-03.pdf" file, then click **Okay**
     - In the **Word Frequency Criteria** menu, you can adjust the parameters of your search, including the number of results to display, the minimum word character length for inclusion in the search, and how to group similar words together in the search. Click **Run Query** to execute the word frequency calculation. How do the results compare with your nodes?
     
-    <img src="images\arduino-icon.png" alt="arduino icon" style="width:180px;">
+    <img src="images\word-frequency.png" alt="word frequency query" style="width:180px;">
     
     - Try modifying these parameters and see how your results change. Make sure to click **Run Query** each time to re-execute the query
     - Ctrl-click terms you want to exclude from your results and select **Add to Stop Words List**. To view words in the stop word list choose **File** then **Project Properties**, click **General** and then click the **Stop Words** button
     - To save the query, click the **Save Criteria** button. The results will be saved in the **Queries** folder in the navigation pane.
 
-    <img src="images\arduino-icon.png" alt="arduino icon" style="width:180px;">
+    <img src="images\mac instructions\save-query.gif" alt="word frequency query demo" style="width:180px;">
 
 5.  ***Text search queries***
     - Text search queries allow you to search for particular words or phrases within and across the documents you have imported into NVivo. Click the **Explore** tab in the Top Ribbon, and then click the **Text Search** icon
