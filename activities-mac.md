@@ -7,7 +7,7 @@ parent: Workshop Activities
 
 # Activity: Youth Climate Marches
 
-<img src="images\mac instructions\new-project.png" alt="create new project" style="float:right;width:180px;"><br>
+<img src="images\mac instructions\new-project.png" alt="create new project" style="float:right;width:180px;"><br><br><br>
 <img src="images\mac instructions\new-project-menu.png" alt="new project menu" style="float:right;width:180px;">
 
 1.  ***Creating a project and navigating the workspace***
