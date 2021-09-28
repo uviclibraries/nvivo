@@ -8,7 +8,7 @@ parent: Workshop Activities
 # Activity: Youth Climate Marches
 
 <img src="images\mac instructions\new-project.png" alt="create new project" style="float:right;width:180px;">
-<img src="images\arduino-icon.png" alt="arduino icon" style="float:right;width:180px;">
+<img src="images\mac instructions\new-project-menu.png" alt="new project menu" style="float:right;width:180px;">
 
 1.  ***Creating a project and navigating the workspace***
     - Open NVivo and select **Create a New Project**
@@ -21,7 +21,7 @@ parent: Workshop Activities
         - File List Pane - displays contents of folders selected in the navigation pane
         - Detail Pane - displays contents of files and project items
 
-    <img src="images\arduino-icon.png" alt="arduino icon" style="width:180px;">
+    <img src="images\mac instructions\menus-overview.png" alt="menus overview" style="width:180px;">
 
 2.  ***Importing your files***
     - Download the two workshop activity files from [this directory](https://bit.ly/DSC_NVIVO_Activity_1_Files){:target="_blank"}
