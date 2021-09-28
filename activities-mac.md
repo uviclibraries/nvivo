@@ -7,14 +7,16 @@ parent: Workshop Activities
 
 # Activity: Youth Climate Marches
 
-<img src="images\mac instructions\new-project.png" alt="create new project" style="float:right;width:180px;"><br><br><br>
-<img src="images\mac instructions\new-project-menu.png" alt="new project menu" style="float:right;width:180px;">
+<img src="images\mac instructions\new-project.png" alt="create new project" style="float:right;width:240px;">
 
 1.  ***Creating a project and navigating the workspace***
     - Open NVivo and select **Create a New Project**
     - In the dialogue box that opens, save your project as "2019 Youth Climate March News Analysis"
     - Choose where to save your project
     - click **Create Project**<br>
+
+    <img src="images\mac instructions\new-project-menu.png" alt="new project menu" style="float:right;width:240px;">
+
     **There are 4 key areas of the NVivo workspace:**
         - Top Ribbon - all of the commands and options in NVivo are found here
         - Navigation Pane - where you view and organize your files
