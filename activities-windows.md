@@ -7,6 +7,7 @@ parent: Workshop Activities
 
 # ACTIVITY: Youth Climate March News Analysis
 
+need some more images?
 gifs needed:
 5g text search query
 6e matrix coding query
