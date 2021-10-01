@@ -56,7 +56,7 @@ parent: Workshop Activities
     
     <img src="images\mac instructions\highlighting-code.gif" alt="highlighting code" style="width:720px;">
     
-    - **Coding Density** To get a visual sense of the coding density of your nodes and spot patterns in the distribution of topics, turn on coding stripes. Make sure the "SouthChinaMorningPost_2019-07-18.pdf" file is visible in the detail pane. At the top of the detail pane, select the **Coding Stripes** icon and, in the drop-down menu, select **All**
+    - **Coding Density:** To get a visual sense of the coding density of your nodes and spot patterns in the distribution of topics, turn on coding stripes. Make sure the "SouthChinaMorningPost_2019-07-18.pdf" file is visible in the detail pane. At the top of the detail pane, select the **Coding Stripes** icon and, in the drop-down menu, select **All**
     
     <img src="images\mac instructions\coding-density.gif" alt="coding density" style="width:720px;">
     
@@ -78,7 +78,7 @@ parent: Workshop Activities
     
     <img src="images\mac instructions\undo-code-hierarchy.gif" alt="undo code hierarchy" style="width:720px;">
     
-    - **Viewing Node References** To view all the pieces of text coded at a given node, from the file list pane double click the desired node. This will open up a window in the detail pane with all the references.
+    - **Viewing Node References:** To view all the pieces of text coded at a given node, from the file list pane double click the desired node. This will open up a window in the detail pane with all the references.
     - Time permitting, repeat the above exercise for the "WashingtonPost_2020-02-03.pdf" file continuing to use and build upon your themes hierarchy
 
     <img src="images\mac instructions\last-of-step-3.png" alt="complete coded document" style="width:720px;">
