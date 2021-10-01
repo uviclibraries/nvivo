@@ -74,11 +74,11 @@ gifs needed:
     - With your nodes list displayed in the file list pane, you can drag and drop the child nodes representing barriers onto the parent node to create a hierarchy. Repeat for nodes representing Impacts and Solutions
     - It can be helpful to group references from all child nodes together under a parent theme. To copy the coding from the child nodes to the parent node, in the list view right-click the parent node and select **Aggregate Coding from Children**
 
-    <img src="images\windows instructions\logo.png" alt="coding stripes" style="width:720px;">
+    <img src="images\windows instructions\logo.png" alt="code hierarchies" style="width:720px;">
 
     - **Removing Child Nodes:** To remove a child node from a hierarchy, drag the child node to the **Nodes** icon in the navigation pane
 
-    <img src="images\windows instructions\logo.png" alt="coding stripes" style="width:720px;">
+    <img src="images\windows instructions\windows-undo-hierarchy.gif" alt="undo code hierarchies" style="width:720px;">
 
     - **Viewing node references:** To view all the pieces of text coded at a given node, from the **Nodes** list double click the desired node. This will open up a window in the detail pane with all the references.
     - Time permitting, repeat the above exercise for the "WashingtonPost_2020-02-03.pdf" file, continuing to use and build upon your themes hierarchy
@@ -96,7 +96,7 @@ gifs needed:
     - Right-click terms you want to exclude from your results and select **Add to Stop Words List**. To view words in the stop word list, click the **File** tab then **Project Properties**. On the **General** tab click the **Stop Words** button
     - To save the query, click the **Add to Project** button. The results will be saved in the **Queries** folder under the Search heading in the navigation pane
 
-    <img src="images\windows instructions\logo.png" alt="coding stripes" style="width:720px;">
+    <img src="images\windows instructions\windows-wordfreq.gif" alt="word frequency query" style="width:720px;">
 
 5. ***Text search queries***
     - Text search queries allow you to search for particular words or phrases within and across the documents you have imported into NVivo. Click the **Explore** tab in the Top Ribbon and then click the **Text Search** icon
