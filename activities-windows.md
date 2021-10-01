@@ -74,7 +74,7 @@ gifs needed:
     - With your nodes list displayed in the file list pane, you can drag and drop the child nodes representing barriers onto the parent node to create a hierarchy. Repeat for nodes representing Impacts and Solutions
     - It can be helpful to group references from all child nodes together under a parent theme. To copy the coding from the child nodes to the parent node, in the list view right-click the parent node and select **Aggregate Coding from Children**
 
-    <img src="images\windows instructions\logo.png" alt="code hierarchies" style="width:720px;">
+    <img src="images\windows instructions\windows-create-hierarchy" alt="code hierarchies" style="width:720px;">
 
     - **Removing Child Nodes:** To remove a child node from a hierarchy, drag the child node to the **Nodes** icon in the navigation pane
 
