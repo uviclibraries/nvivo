@@ -15,8 +15,8 @@ nvivo workspace overview
 5 text search query menu still
 6 matrix menu still
 
-<img src="images\windows instructions\win-new-proj.png" alt="new project button" style="float:right;width:240px;">
-<img src="images\windows instructions\win-new-proj-menu.png" alt="new project menu" style="float:right;width:240px;">
+<img src="images\windows instructions\win-new-proj.PNG" alt="new project button" style="float:right;width:240px;">
+<img src="images\windows instructions\win-new-proj-menu.PNG" alt="new project menu" style="float:right;width:240px;">
 
 1. ***Creating a project and navigating the workspace***
     - Open NVivo and select **Blank Project**
@@ -29,7 +29,7 @@ nvivo workspace overview
         - File List Pane - displays contents of folders selected in the navigation pane
         - Detail Pane - displays contents of files and project items
 
-    <img src="images\windows instructions\win-nvivo-workspace.png" alt="menus overview" style="width:720px;">
+    <img src="images\windows instructions\win-nvivo-workspace.PNG" alt="menus overview" style="width:720px;">
 
 2. ***Importing your files***
     - Download the two workshop activity files from [this directory](https://bit.ly/DSC_NVIVO_Activity_1_Files){:target="_blank"}
@@ -124,7 +124,7 @@ nvivo workspace overview
     - To save the query, click the **Add to Project** button. The results will be saved in the **Queries** folder under the **Search** heading in the navigation pane
 
     <img src="images\windows instructions\windows-matrixquery.gif" alt="matrix query" style="width:720px;">
-    <img src="images\windows instructions\win-matrix-menu.png" alt="matrix query result example" style="width:720px;">
+    <img src="images\windows instructions\win-matrix-menu.PNG" alt="matrix query result example" style="width:720px;">
 
 7. ***Creating Visualizations***
     - **Visualizing Query Results:** NVivo automatically creates visualizations for queries. Re-open your saved word frequency query. On the right-side of the results summary, tabs indicating **Word Cloud** and **Tree Map** are available
