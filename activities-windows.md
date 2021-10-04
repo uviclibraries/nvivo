@@ -31,7 +31,7 @@ nvivo workspace overview
         - File List Pane - displays contents of folders selected in the navigation pane
         - Detail Pane - displays contents of files and project items
 
-    <img src="images\windows instructions\win-nvivo-workspace.PNG" alt="menus overview" style="width:720px;">
+    <img src="images\mac instructions\menus-overview.png" alt="menus overview" style="width:720px;">
 
 2. ***Importing your files***
     - Download the two workshop activity files from [this directory](https://bit.ly/DSC_NVIVO_Activity_1_Files){:target="_blank"}
