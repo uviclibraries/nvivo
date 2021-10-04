@@ -93,7 +93,7 @@ nvivo workspace overview
 
 4. ***Word frequency queries***
     - Running a word frequency query can help you establish nodes prior to coding and give you a sense of the content of your file. Click the **Explore** tab in the Top Ribbon, and then click the **Word Frequency** icon
-    - The **Word Frequency Criteria** menu opens in a new window. Click the **Search in Selectec Items** button to choose which file(s) to search. In the dialogue box that appears, select the "WashingtonPost_2020-02-03.pdf" file, then click **OK**
+    - The **Word Frequency Criteria** menu opens in a new window. Click the **Selected Items** button to choose which file(s) to search. In the dialogue box that appears, select the "WashingtonPost_2020-02-03.pdf" file, then click **OK**
     - In the **Word Frequency Criteria** menu, you can adjust the parameters of your search, including the number of results to display, the minimum word character length for inclusion in the search, and how to group similar words together in the search. Click **Run Query** to execute the word frequency calculation. How do the results compare with your nodes?
 
     <img src="images\windows instructions\win-wrd-freq-menu.png" alt="word frequency query menu" style="width:720px;">
@@ -106,15 +106,15 @@ nvivo workspace overview
 
 5. ***Text search queries***
     - Text search queries allow you to search for particular words or phrases within and across the documents you have imported into NVivo. Click the **Explore** tab in the Top Ribbon and then click the **Text Search** icon
-    - The **Text Search Criteria** menu opens in a new window. Click the **Search in Selected Items** button to choose which file(s) to search. In the **Select Project Items** dialogue box that appears, select the "WashingtonPost_2020-02-03.pdf" text file, then click **OK**
-    - Open the **Nodes** list in the list view pane. Let's see whether any of the themes we identified in the first interview are also discussed in the second interview
+    - The **Text Search Criteria** menu opens in a new window. Click the **Selected Items** button to choose which file(s) to search. In the **Select Project Items** dialogue box that appears, select the "WashingtonPost_2020-02-03.pdf" text file, then click **OK**
+    - Open the **Codes** list in the list view pane. Let's see whether any of the themes we identified in the first interview are also discussed in the second interview
     - Enter the term "drought" into the text box and click **Run Query**. 1 reference should be found
     - Play around with some of your other nodes and search options: with stemmed words, with synonyms etc. Some samples to try including: disaster, displace, lobby, activism, coral, etc.
 
     <img src="images\windows instructions\win-txt-menu.png" alt="text search query menu" style="width:720px;">
 
     - Double click the copy of the file listed below the **Text Search Criteria**. The words in the search string are now highlighted within the context of the document
-    - To code the highlighted text, in the **Text Search Query** click **Save Results**. In the dialogue box that appears, select **Create Results as New Node**. Next to **Location** click the arrow then select **Nodes**
+    - To code the highlighted text, in the **Text Search Query** click **Save Results**. In the dialogue box that appears, select **Create Results as New Code or Case**. Next to **Location** click the arrow then select **Codes**. Give it an appropriate title and then press **OK**
 
     <img src="images\windows instructions\windows-textquery.gif" alt="text query" style="width:720px;">
 
