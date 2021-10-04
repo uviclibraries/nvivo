@@ -74,17 +74,17 @@ nvivo workspace overview
         - i.   Impacts
         - ii.  Barriers
         - iii. Solutions
-    - Aim to identify at least 3 to 5 themes in each response. If you need to remove codes, highlight the piece of text, right-click and select **Uncode**
+    - Aim to identify at least 3 to 5 themes in each response. If you need to remove codes, highlight the piece of text, right-click and select **Uncode**. Select the code you wish to remove your selection from and click **OK**
 
     <img src="images\windows instructions\windows-uncode.gif" alt="uncoding" style="width:720px;">
 
-    - **Create Node Hierarchies:** As you create more and more nodes, you may start to see a hierarchy of themes emerge. You can group nodes into parent or child categories. Using the "Impact", "Bariers", and "Solutions" themes, organize your nodes into a hierarchy. To do so, first create a new node titled "Barriers". Double click the **Nodes** icon in the navigation pane to display it in the file list pane. Click the **Node** icon in the top ribbon under the **Create** tab. In the **New Node** dialogue box that appears, name a new node "Barriers"
-    - With your nodes list displayed in the file list pane, you can drag and drop the child nodes representing barriers onto the parent node to create a hierarchy. Repeat for nodes representing Impacts and Solutions
+    - **Create Node Hierarchies:** As you create more and more nodes, you may start to see a hierarchy of themes emerge. You can group nodes into parent or child categories. Using the "Impact", "Bariers", and "Solutions" themes, organize your nodes into a hierarchy. To do so, first create a new node titled "Barriers". Double click the **Codes** icon in the navigation pane to display it in the file list pane. Click the **Code** icon in the top ribbon under the **Create** tab. In the **New Code** dialogue box that appears, name a new node "Barriers"
+    - With your nodes list displayed in the file list pane, you can select and then drag and drop the child nodes representing barriers onto the parent node to create a hierarchy. Repeat for nodes representing Impacts and Solutions
     - It can be helpful to group references from all child nodes together under a parent theme. To copy the coding from the child nodes to the parent node, in the list view right-click the parent node and select **Aggregate Coding from Children**
 
     <img src="images\windows instructions\windows-create-hierarchy.gif" alt="code hierarchies" style="width:720px;">
 
-    - **Removing Child Nodes:** To remove a child node from a hierarchy, drag the child node to the **Nodes** icon in the navigation pane
+    - **Removing Child Nodes:** To remove a child node from a hierarchy, drag the child node to the **Codes** icon in the navigation pane
 
     <img src="images\windows instructions\windows-undo-hierarchy.gif" alt="undo code hierarchies" style="width:720px;">
 
