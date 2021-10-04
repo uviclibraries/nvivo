@@ -26,7 +26,7 @@ parent: Workshop Activities
     <img src="images\mac instructions\menus-overview.png" alt="menus overview" style="width:720px;">
 
 2. ***Importing your files***
-    - Download the two workshop activity files from [this directory](https://bit.ly/DSC_NVIVO_Activity_1_Files){:target="_blank"}
+    - Download the two workshop activity files from [this directory](https://github.com/richmccue/nvivo/tree/main/resources){:target="_blank"}
     - Select the **Import** tab on the top ribbon and then select **Files**
     - Navigate to the two files you saved to your computer. Select the two PDFs and click **Open**
     - On the **Import Files** dialogue box that appears, select **Import**
