@@ -111,7 +111,7 @@ gifs needed:
     - Double click the copy of the file listed below the **Text Search Criteria**. The words in the search string are now highlighted within the context of the document
     - To code the highlighted text, in the **Text Search Query** click **Save Results**. In the dialogue box that appears, select **Create Results as New Node**. Next to **Location** click the arrow then select **Nodes**
 
-    <img src="images\windows instructions\logo.png" alt="coding stripes" style="width:720px;">
+    <img src="images\windows instructions\windows-textquery.gif" alt="text query" style="width:720px;">
 
 6. ***Matrix coding queries***
     - Matrix coding queries enable you to see coding intersections between two lists of items. For example, let's explore how our Impact codes intersect with countries
@@ -121,13 +121,13 @@ gifs needed:
     - To save the query, click the **Add to Project** button. The results will be saved in the **Queries** folder under the **Search** heading in the navigation pane
 
     <img src="images\windows instructions\logo.png" alt="coding stripes" style="width:720px;">
-    <img src="images\windows instructions\logo.png" alt="coding stripes" style="width:720px;">
+    <img src="images\windows instructions\windows-matrixquery.gif" alt="matrix query" style="width:720px;">
 
 7. ***Creating Visualizations***
     - **Visualizing Query Results:** NVivo automatically creates visualizations for queries. Re-open your saved word frequency query. On the right-side of the results summary, tabs indicating **Word Cloud** and **Tree Map** are available
     - For matrix queries and crosstab queries, you can display your results as a chart. Re-open your saved matrix query. On the right-side of the results summary click the **Chart** tab. By default, NVivo will create a 3D visualization to represent your results. This can be changed or customized using the **Chart** tools displayed on the Top Ribbon
 
-    <img src="images\windows instructions\logo.png" alt="coding stripes" style="width:720px;">
+    <img src="images\windows instructions\windows-visualization-final.gif" alt="creating a visualization" style="width:720px;">
 
 8. ***Exporting materials***
     - **Reports and Extracts:** NVivo automatically generates a series of reports to summarize your work. In the navigation pane, expand the **Output** heading. Two options should be listed: reports and extracts. Reports are meant to be read as documents, whereas extracts can be imported into spreadsheets
