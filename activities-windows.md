@@ -15,7 +15,7 @@ nvivo workspace overview
 5 text search query menu still
 6 matrix menu still
 
-<img src="images\windows instructions\win-new-proj.PNG" alt="new project button" style="float:right;width:240px;">
+<img src="images\windows instructions\win-new-proj.PNG" alt="new project button" style="float:right;width:360px;">
 
 1. ***Creating a project and navigating the workspace***
     - Open NVivo and select **Blank Project**
