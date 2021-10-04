@@ -72,7 +72,7 @@ parent: Workshop Activities
 
     - **Create Node Hierarchies:** As you create more and more nodes, you may start to see a hierarchy of themes emerge. You can group nodes into parent or child categories. Using the "Impact", "Bariers", and "Solutions" themes, organize your nodes into a hierarchy. To do so, first create a new node titled "Barriers". Double click the **Codes** icon in the navigation pane to display it in the file list pane. Click the **Code** icon in the top ribbon under the **Create** tab. In the **New Code** dialogue box that appears, name a new node "Barriers"
     - With your nodes list displayed in the file list pane, you can select and then drag and drop the child nodes representing barriers onto the parent node to create a hierarchy. Repeat for nodes representing Impacts and Solutions
-    - Note: In the Windows version of NVivo, if nothing is selected in the File List Pane, clicking and dragging will select multiple entries. If you wish to click and drag one item, you must first click it once to select it and then click and drag it from one location to the next
+    - **Note:** In the Windows version of NVivo, if nothing is selected in the File List Pane, clicking and dragging will select multiple entries. If you wish to click and drag one item, you must first click it once to select it and then click and drag it from one location to the next
     - It can be helpful to group references from all child nodes together under a parent theme. To copy the coding from the child nodes to the parent node, in the list view right-click the parent node and select **Aggregate Coding from Children**
 
     <img src="images\windows instructions\windows-create-hierarchy.gif" alt="code hierarchies" style="width:720px;">
