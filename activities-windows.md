@@ -7,17 +7,19 @@ parent: Workshop Activities
 
 # ACTIVITY: Youth Climate March News Analysis
 
-need some more images?
-gifs needed:
-5g text search query
-6e matrix coding query
-7a visualizing query results
+need some more images:
+create project screen
+nvivo workspace overview
+3b text selection still
+4 word frequency query menu still
+5 text search query menu still
+6 matrix menu still
 
 1. ***Creating a project and navigating the workspace***
     - Open NVivo and select **Blank Project**
     - In the **New Project** dialogue box that opens, enter a title for your project "2019 Youth Climate March News Analysis"
     - Next to the **File** name field, select where to save your project file with **Browse**
-    - Check the box next to **Write user actions to project event log** (this will keep track of your methodology and retrace your steps later on). Click **Okay** when finished<br>
+    - Check the box next to **Write user actions to project event log** (this will keep track of your methodology and retrace your steps later on). Click **OK** when finished<br>
     **There are 4 key areas of the NVivo workspace:**
         - Top Ribbon - all of the commands and options in NVivo are found here
         - Navigation Pane - where you view and organize your files
@@ -41,12 +43,12 @@ gifs needed:
 
 3. ***Coding text files with nodes***
     - Double click the "SouthChinaMorningPost_2019-07-18.pdf" file to display it in the detail pane. Read through the document and keep an eye out for key issues and themes brought up by each of the speakers in the 9 countries covered. In the following steps we will code and organize themes identified in the document by creating a series of nodes
-    - **Coding at a new node:** The speaker from Australia mentions increasing summer temperatures. To create a node representing this theme, highlight the related sentence, right-click the highlighted text and select **Code**. In the **Select Code Items** dialogue box that appears, select **Nodes** and click **New Node**. Title your new node "increasing temperature"
+    - **Coding at a new node:** The speaker from Australia mentions increasing summer temperatures. To create a node representing this theme, highlight the related sentence, right-click the highlighted text and select **Code Selection**. In the **Select Code Items** dialogue box that appears, select **Codes** and then, under the **Create New:** heading, select **Top Level Code**. Title your new node "increasing temperature"
 
     <img src="images\windows instructions\windows-new-code.gif" alt="coding at new node" style="width:720px;">
     <img src="images\windows instructions\logo.png" alt="menus overview" style="width:720px;">
 
-    - **Coding at an existing node:** The speaker from Vietnam also talks about increasing temperatures. Right-click the highlighted text, select **Code to Recent Nodes** and select **increasing temperature**
+    - **Coding at an existing node:** The speaker from Vietnam also talks about increasing temperatures. Right-click the highlighted text, select **Code Selection**, select **increasing temperature** (under the **Codes** heading), and then confirm with the **Code Selection to "increasing temperature"** button at the bottom of the pop up. Alternatively, to achieve the same result you could have selected **Code to Recent Nodes** and selected **increasing temperature**
 
     <img src="images\windows instructions\windows-code-exist.gif" alt="coding at existing node" style="width:720px;">
 
@@ -55,11 +57,11 @@ gifs needed:
     <img src="images\windows instructions\windows-recode.gif" alt="recoding text" style="width:720px;">
 
     - **Quick Coding Bar:** The coding bar at the bottom of the workspace can be a quick way to code text. Select the text in your file you wish to code. On the quick coding bar, type the name of a new or existing node (as you start typing, the names of nodes will start to show up), and then click enter on your keyboard
-    - **Highlighting Codes:** To see what portions of text in your document have been coded, in the top ribbon under the **Document** tab click the **Highlight** icon and select **All Coding**. If you want to only see specific codes highlighted in the text, select **Coding for Selected Items** and pick from the list displayed, then click **Okay**
+    - **Highlighting Codes:** To see what portions of text in your document have been coded, in the top ribbon under the **Document** tab (that should in this case display "SouthChinaMorningPost_2019-07-18") click the **Highlight** icon and select **All Coding**. If you want to only see specific codes highlighted in the text, select **Coding for Selected Items** and pick from the list displayed, then click **OK**
 
     <img src="images\windows instructions\windows-highlight.gif" alt="highlighting" style="width:720px;">
 
-    - **Coding Density:** To get a visual sense of the coding density of your nodes and spot patterns in the distribution of topics, turn on coding stripes. Make sure the "SouthChinaMorningPost_2019-07-18.pdf" file is visible in the detail pane. In the top ribbon, select the **Document** tab, click the **Coding Stripes** icon and, in the drop-down menu, select **All Coding**
+    - **Coding Density:** To get a visual sense of the coding density of your nodes and spot patterns in the distribution of topics, turn on coding stripes. Make sure the "SouthChinaMorningPost_2019-07-18.pdf" file is visible in the detail pane. In the top ribbon, select the **Document** tab as before, click the **Coding Stripes** icon and, in the drop-down menu, select **All**
 
     <img src="images\windows instructions\windows-codingstripes.gif" alt="coding stripes" style="width:720px;">
 
@@ -84,11 +86,9 @@ gifs needed:
     - **Viewing node references:** To view all the pieces of text coded at a given node, from the **Nodes** list double click the desired node. This will open up a window in the detail pane with all the references.
     - Time permitting, repeat the above exercise for the "WashingtonPost_2020-02-03.pdf" file, continuing to use and build upon your themes hierarchy
 
-    <img src="images\windows instructions\logo.png" alt="coding stripes" style="width:720px;">
-
 4. ***Word frequency queries***
     - Running a word frequency query can help you establish nodes prior to coding and give you a sense of the content of your file. Click the **Explore** tab in the Top Ribbon, and then click the **Word Frequency** icon
-    - The **Word Frequency Criteria** menu opens in a new window. Click the **Search in Selectec Items** button to choose which file(s) to search. In the dialogue box that appears, select the "WashingtonPost_2020-02-03.pdf" file, then click **Okay**
+    - The **Word Frequency Criteria** menu opens in a new window. Click the **Search in Selectec Items** button to choose which file(s) to search. In the dialogue box that appears, select the "WashingtonPost_2020-02-03.pdf" file, then click **OK**
     - In the **Word Frequency Criteria** menu, you can adjust the parameters of your search, including the number of results to display, the minimum word character length for inclusion in the search, and how to group similar words together in the search. Click **Run Query** to execute the word frequency calculation. How do the results compare with your nodes?
 
     <img src="images\windows instructions\logo.png" alt="coding stripes" style="width:720px;">
@@ -101,7 +101,7 @@ gifs needed:
 
 5. ***Text search queries***
     - Text search queries allow you to search for particular words or phrases within and across the documents you have imported into NVivo. Click the **Explore** tab in the Top Ribbon and then click the **Text Search** icon
-    - The **Text Search Criteria** menu opens in a new window. Click the **Search in Selected Items** button to choose which file(s) to search. In the **Select Project Items** dialogue box that appears, select the "WashingtonPost_2020-02-03.pdf" text file, then click **Okay**
+    - The **Text Search Criteria** menu opens in a new window. Click the **Search in Selected Items** button to choose which file(s) to search. In the **Select Project Items** dialogue box that appears, select the "WashingtonPost_2020-02-03.pdf" text file, then click **OK**
     - Open the **Nodes** list in the list view pane. Let's see whether any of the themes we identified in the first interview are also discussed in the second interview
     - Enter the term "drought" into the text box and click **Run Query**. 1 reference should be found
     - Play around with some of your other nodes and search options: with stemmed words, with synonyms etc. Some samples to try including: disaster, displace, lobby, activism, coral, etc.
@@ -131,7 +131,7 @@ gifs needed:
 
 8. ***Exporting materials***
     - **Reports and Extracts:** NVivo automatically generates a series of reports to summarize your work. In the navigation pane, expand the **Output** heading. Two options should be listed: reports and extracts. Reports are meant to be read as documents, whereas extracts can be imported into spreadsheets
-    - Click the **Reports** icon in the navigation pane. A series of reporting options should appear in the file list pane. Let's create a report summarizing our coding scheme. Click **Coding Summary by Code Report**. In the **Filter Options** dialogue box that appears, click **Okay**. In the detail pane, a document should open, which summarizes information on each of the codes in the hierarchy and lists the coded text
+    - Click the **Reports** icon in the navigation pane. A series of reporting options should appear in the file list pane. Let's create a report summarizing our coding scheme. Click **Coding Summary by Code Report**. In the **Filter Options** dialogue box that appears, click **OK**. In the detail pane, a document should open, which summarizes information on each of the codes in the hierarchy and lists the coded text
     - For comparison, click the **Extracts** icon in the navigation pane. Click **Coding Summary by Code Report** in the file list pane. In the **Filter Options** dialogue box that appears, click **Okay**. NVivo will ask you to save this document locally as a \*.txt file. This file can now be opened by programs like Excel. Column structure is maintained by comma delineation
     - **Individual Item Export:** You can also export the codebook and other content generated in NVivo as individual files. In the navigation pane under **Codes**, right-click **Nodes** and select **Export Codebook**. In the dialogue box that appears, you can browse to select where to save the file. You can choose to save the file either in MS Word format (\*.docx) or MS Excel (\*.xlsx)
 9. ***Saving your workspace***
