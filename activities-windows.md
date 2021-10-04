@@ -15,6 +15,9 @@ nvivo workspace overview
 5 text search query menu still
 6 matrix menu still
 
+<img src="images\windows instructions\win-new-proj.png" alt="new project button" style="float:right;width:240px;">
+<img src="images\windows instructions\win-new-proj-menu.png" alt="new project menu" style="float:right;width:240px;">
+
 1. ***Creating a project and navigating the workspace***
     - Open NVivo and select **Blank Project**
     - In the **New Project** dialogue box that opens, enter a title for your project "2019 Youth Climate March News Analysis"
@@ -26,7 +29,7 @@ nvivo workspace overview
         - File List Pane - displays contents of folders selected in the navigation pane
         - Detail Pane - displays contents of files and project items
 
-    <img src="images\windows instructions\logo.png" alt="menus overview" style="width:720px;">
+    <img src="images\windows instructions\win-nvivo-workspace.png" alt="menus overview" style="width:720px;">
 
 2. ***Importing your files***
     - Download the two workshop activity files from [this directory](https://bit.ly/DSC_NVIVO_Activity_1_Files){:target="_blank"}
@@ -45,8 +48,8 @@ nvivo workspace overview
     - Double click the "SouthChinaMorningPost_2019-07-18.pdf" file to display it in the detail pane. Read through the document and keep an eye out for key issues and themes brought up by each of the speakers in the 9 countries covered. In the following steps we will code and organize themes identified in the document by creating a series of nodes
     - **Coding at a new node:** The speaker from Australia mentions increasing summer temperatures. To create a node representing this theme, highlight the related sentence, right-click the highlighted text and select **Code Selection**. In the **Select Code Items** dialogue box that appears, select **Codes** and then, under the **Create New:** heading, select **Top Level Code**. Title your new node "increasing temperature"
 
+    <img src="images\windows instructions\win-select-text.png" alt="selecting text" style="width:720px;">
     <img src="images\windows instructions\windows-new-code.gif" alt="coding at new node" style="width:720px;">
-    <img src="images\windows instructions\logo.png" alt="menus overview" style="width:720px;">
 
     - **Coding at an existing node:** The speaker from Vietnam also talks about increasing temperatures. Right-click the highlighted text, select **Code Selection**, select **increasing temperature** (under the **Codes** heading), and then confirm with the **Code Selection to "increasing temperature"** button at the bottom of the pop up. Alternatively, to achieve the same result you could have selected **Code to Recent Nodes** and selected **increasing temperature**
 
@@ -91,7 +94,7 @@ nvivo workspace overview
     - The **Word Frequency Criteria** menu opens in a new window. Click the **Search in Selectec Items** button to choose which file(s) to search. In the dialogue box that appears, select the "WashingtonPost_2020-02-03.pdf" file, then click **OK**
     - In the **Word Frequency Criteria** menu, you can adjust the parameters of your search, including the number of results to display, the minimum word character length for inclusion in the search, and how to group similar words together in the search. Click **Run Query** to execute the word frequency calculation. How do the results compare with your nodes?
 
-    <img src="images\windows instructions\logo.png" alt="coding stripes" style="width:720px;">
+    <img src="images\windows instructions\win-wrd-freq-menu.png" alt="word frequency query menu" style="width:720px;">
 
     - Try modifying these parameters and see how your results change. Make sure to click **Run Query** each time to re-execute the query
     - Right-click terms you want to exclude from your results and select **Add to Stop Words List**. To view words in the stop word list, click the **File** tab then **Project Properties**. On the **General** tab click the **Stop Words** button
@@ -106,7 +109,7 @@ nvivo workspace overview
     - Enter the term "drought" into the text box and click **Run Query**. 1 reference should be found
     - Play around with some of your other nodes and search options: with stemmed words, with synonyms etc. Some samples to try including: disaster, displace, lobby, activism, coral, etc.
 
-    <img src="images\windows instructions\logo.png" alt="coding stripes" style="width:720px;">
+    <img src="images\windows instructions\win-txt-menu.png" alt="text search query menu" style="width:720px;">
 
     - Double click the copy of the file listed below the **Text Search Criteria**. The words in the search string are now highlighted within the context of the document
     - To code the highlighted text, in the **Text Search Query** click **Save Results**. In the dialogue box that appears, select **Create Results as New Node**. Next to **Location** click the arrow then select **Nodes**
@@ -120,8 +123,8 @@ nvivo workspace overview
     - The resulting matrix shows counts of which impacts were raised by speakers from different countries
     - To save the query, click the **Add to Project** button. The results will be saved in the **Queries** folder under the **Search** heading in the navigation pane
 
-    <img src="images\windows instructions\logo.png" alt="coding stripes" style="width:720px;">
     <img src="images\windows instructions\windows-matrixquery.gif" alt="matrix query" style="width:720px;">
+    <img src="images\windows instructions\win-matrix-menu.png" alt="matrix query result example" style="width:720px;">
 
 7. ***Creating Visualizations***
     - **Visualizing Query Results:** NVivo automatically creates visualizations for queries. Re-open your saved word frequency query. On the right-side of the results summary, tabs indicating **Word Cloud** and **Tree Map** are available
