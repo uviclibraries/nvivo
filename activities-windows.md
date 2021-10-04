@@ -20,7 +20,7 @@ nvivo workspace overview
 1. ***Creating a project and navigating the workspace***
     - Open NVivo and select **Blank Project**
     
-    <img src="images\windows instructions\win-new-proj-menu.PNG" alt="new project menu" style="float:right;width:240px;">
+    <img src="images\windows instructions\win-new-proj-menu.PNG" alt="new project menu" style="float:right;width:360px;">
     
     - In the **New Project** dialogue box that opens, enter a title for your project "2019 Youth Climate March News Analysis"
     - Next to the **File** name field, select where to save your project file with **Browse**
