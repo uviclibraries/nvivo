@@ -116,7 +116,7 @@ parent: Workshop Activities
     - First create nodes for each country represented in the sources and apply each of them to the related text
     - Under the **Explore** tab, click **Matrix Coding Query**. Search in **Files & Externals**. Set "Coding at rows **AND** columns". Select, drag, and drop all of the Country child nodes into the Rows and drag and drop all of the Impact child nodes into the Columns text boxes. Then, select **Run Query**
     - The resulting matrix shows counts of which impacts were raised by speakers from different countries
-    - To save the query, click the **Save Criteria...** button. The results will be saved in the **Queries** folder under the **Search** heading in the navigation pane
+    - To save the query, click the **Save Criteria...** button. The results will be saved in the **Query Results** folder under the **Queries** heading in the navigation pane
 
     <img src="images\windows instructions\windows-matrixquery.gif" alt="matrix query" style="width:720px;">
     <img src="images\windows instructions\win-matrix-menu.PNG" alt="matrix query result example" style="width:720px;">
