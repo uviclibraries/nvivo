@@ -93,7 +93,7 @@ parent: Workshop Activities
 
     - Try modifying these parameters and see how your results change. Make sure to click **Run Query** each time to re-execute the query
     - Right-click terms you want to exclude from your results and select **Add to Stop Words List**. To view words in the stop word list, click the **File** tab then **Project Properties**. On the **General** tab click the **Stop Words** button
-    - To save the query, click the **Add to Project** button. The results will be saved in the **Queries** folder under the Search heading in the navigation pane
+    - To save the query, click the **Save Criteria...** button. The results will be saved in the **Query Criteria** folder under the **Queries** heading in the navigation pane
 
     <img src="images\windows instructions\windows-wordfreq.gif" alt="word frequency query" style="width:720px;">
 
