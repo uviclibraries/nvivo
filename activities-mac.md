@@ -88,7 +88,7 @@ parent: Workshop Activities
     - The **Word Frequency Criteria** menu opens in a new window. Click the **Search in Selected Items** button to choose which file(s) to search. In the dialogue box that appears, select the "WashingtonPost_2020-02-03.pdf" file, then click **Okay**
     - In the **Word Frequency Criteria** menu, you can adjust the parameters of your search, including the number of results to display, the minimum word character length for inclusion in the search, and how to group similar words together in the search. Click **Run Query** to execute the word frequency calculation. How do the results compare with your nodes?
     
-    <img src="images\word-frequency.png" alt="word frequency query" style="width:720px;">
+    <img src="images\mac instructions\word-frequency.png" alt="word frequency query" style="width:720px;">
     
     - Try modifying these parameters and see how your results change. Make sure to click **Run Query** each time to re-execute the query
     - Ctrl-click terms you want to exclude from your results and select **Add to Stop Words List**. To view words in the stop word list choose **File** then **Project Properties**, click **General** and then click the **Stop Words** button
