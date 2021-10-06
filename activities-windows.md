@@ -9,8 +9,6 @@ parent: Workshop Activities
 
 <img src="images\windows instructions\win-new-proj.PNG" alt="new project button" style="float:right;width:360px;">
 
-<img src="images\windows instructions\coding-density-2.gif" alt="coding density" style="width:720px;">
-
 1. ***Creating a project and navigating the workspace***
     - Open NVivo and select **Blank Project**
     
@@ -62,7 +60,7 @@ parent: Workshop Activities
 
     - **Coding Density:** To get a visual sense of the coding density of your nodes and spot patterns in the distribution of topics, turn on coding stripes. Make sure the "SouthChinaMorningPost_2019-07-18.pdf" file is visible in the detail pane. In the top ribbon, select the **Document** tab as before, click the **Coding Stripes** icon and, in the drop-down menu, select **All**
 
-    <img src="images\windows instructions\windows-codingstripes.gif" alt="coding stripes" style="width:720px;">
+    <img src="images\windows instructions\coding-density-2.gif" alt="coding density" style="width:720px;">
 
     - **Key Themes:** Continue coding the rest of this document by creating nodes and applying them to the sentences they are contained in. Identify themes related to:
         - i.   Impacts
