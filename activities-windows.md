@@ -9,6 +9,8 @@ parent: Workshop Activities
 
 <img src="images\windows instructions\win-new-proj.PNG" alt="new project button" style="float:right;width:360px;">
 
+<img src="images\windows instructions\coding-density-2.gif" alt="coding density" style="width:720px;">
+
 1. ***Creating a project and navigating the workspace***
     - Open NVivo and select **Blank Project**
     
