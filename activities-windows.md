@@ -118,8 +118,8 @@ parent: Workshop Activities
     - The resulting matrix shows counts of which impacts were raised by speakers from different countries
     - To save the query, click the **Save Criteria...** button. The results will be saved in the **Query Results** folder under the **Queries** heading in the navigation pane
 
-    <img src="images\windows instructions\windows-matrixquery.gif" alt="matrix query" style="width:720px;">
-    <img src="images\windows instructions\matrix-coding-query-2.PNG" alt="matrix query result example" style="width:720px;">
+    <img src="images\windows instructions\matrix-coding-query-2.gif" alt="matrix query" style="width:720px;">
+    <img src="images\windows instructions\win-matrix-menu.PNG" alt="matrix query result example" style="width:720px;">
 
 7. ***Creating Visualizations***
     - **Visualizing Query Results:** NVivo automatically creates visualizations for queries. Re-open your saved word frequency query. On the right-side of the results summary, tabs indicating **Word Cloud** and **Tree Map** are available
