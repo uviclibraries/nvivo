@@ -14,7 +14,9 @@ nav_order: 10
 
 ## Acknowledgements
 
+- [Sharon Dias](https://www.linkedin.com/in/sharonddias){:target="_blank"}, who created the first version of this workshop.
+- Brittany Johnson, who created animated GIF's for this workshop.
+- Nathaniel Loman, who created animated GIF's for this workshop.
 - [UBC Library Research Commons](https://github.com/ubc-library-rc/), for their assistance with the Jekyll template for GitHub Pages.
-- **MORE ACKNOWLEDGEMENTS HERE**
 
 [NEXT STEP: Workshop Evaluation Survey](workshop-survey.html){: .btn .btn-blue }
