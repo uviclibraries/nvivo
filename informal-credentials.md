@@ -3,7 +3,7 @@ layout: default
 title: Earn a Workshop Badge
 nav_order: 9
 ---
-<img src="images\badgr-logo.png" alt="badgr nvivo logo" style="float:right;width:180px;">
+<img src="https://media.badgr.com/uploads/badges/2c6d8e4e-3b84-4c46-bbf7-becbce0ad12d.png" alt="badgr nvivo logo" style="float:right;width:180px;">
 
 # Informal Credentials or Digital Badges
 
