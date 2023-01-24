@@ -8,8 +8,8 @@ parent: Workshop Activities
 
 - Please review the following [Introductory Slides](https://docs.google.com/presentation/d/1rqoqCInbDZALG_yzQbsiMCE_axgmI3e6f7kRXzhU6_E/edit#slide=id.p5){:target="_blank"}
 
-- Resize Your Laptop Screen for Workshop Handouts (2 min)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- Video: [Resize Your Laptop Screen for Workshop Handouts (2 min)](https://www.youtube.com/watch?v=Igk5hZUfzN0){:target="_blank"}
+
 
 The appearance of the NVivo interface may differ between the Mac and Windows version. Please proceed to the appropriate instructions for your computer:
 
