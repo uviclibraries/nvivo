@@ -15,7 +15,7 @@ DSC badges are awarded at the request of workshop participants after a DSC staff
 
 ### Earn an Informal Credential or Badge for NVivo
 
-If you’d like to earn a DSC badge for this workshop, please email the following screenshots to: [audreytung@uvic.ca](mailto:audreytung@uvic.ca){:target="_blank"}
+If you’d like to earn a DSC badge for this workshop, please email the following screenshots to: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
 1.  Coding Book
 2.  Word Frequency
 3.  A Visualization
