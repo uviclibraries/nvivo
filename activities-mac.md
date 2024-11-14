@@ -110,7 +110,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 
     - **Viewing Node References:** To view all the pieces of text coded at a given node, from the file list pane double click the desired node. This will open up a window in the detail pane with all the references.
-    - Time permitting, repeat the above exercise for the "WashingtonPost_2020-02-03.pdf" file continuing to use and build upon your themes hierarchy
+        - Time permitting, repeat the above exercise for the "WashingtonPost_2020-02-03.pdf" file continuing to use and build upon your themes hierarchy
 
     <img src="images\mac instructions\last-of-step-3.png" alt="complete coded document" style="width:720px;">
 
