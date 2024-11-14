@@ -99,7 +99,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
     - With your nodes list displayed in the file list pane, you can select and then drag and drop the child nodes representing barriers onto the parent node to create a hierarchy. Repeat for nodes representing Impacts and Solutions
 
-    - **Note:** In the Windows version of NVivo, if nothing is selected in the File List Pane, clicking and dragging will select multiple entries. If you wish to click and drag one item, you must first click it once to select it and then click and drag it from one location to the next
+        - **Note:** In the Windows version of NVivo, if nothing is selected in the File List Pane, clicking and dragging will select multiple entries. If you wish to click and drag one item, you must first click it once to select it and then click and drag it from one location to the next
 
     - It can be helpful to group references from all child nodes together under a parent theme. To copy the coding from the child nodes to the parent node, in the list view right-click the parent node and select **Aggregate Coding from Children**
 
@@ -116,7 +116,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     </div>
 
     - **Viewing node references:** To view all the pieces of text coded at a given node, from the **Codes** list double click the desired node. This will open up a window in the detail pane with all the references.
-    - Time permitting, repeat the above exercise for the "WashingtonPost_2020-02-03.pdf" file, continuing to use and build upon your themes hierarchy
+        - Time permitting, repeat the above exercise for the "WashingtonPost_2020-02-03.pdf" file, continuing to use and build upon your themes hierarchy
 
 
 4. ***Word frequency queries***
