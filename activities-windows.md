@@ -38,11 +38,10 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     **pdf file:**<img src="images\icon-pdf.png" alt="pdf icon" style="width:30px;">
     
     <button onclick="toggle('gif1')"> Show / Hide Animation </button>
-  <div id="gif1">
-  <img src="images\windows instructions\import-2.gif" alt="importing files" style="width:720px;">
-  </div>
+    <div id="gif1">
+    <img src="images\windows instructions\import-2.gif" alt="importing files" style="width:720px;">
+    </div>
 
-    
 
 3. ***Coding text files with nodes***
     - Double click the "SouthChinaMorningPost_2019-07-18.pdf" file to display it in the detail pane. Read through the document and keep an eye out for key issues and themes brought up by each of the speakers in the 9 countries covered. In the following steps we will code and organize themes identified in the document by creating a series of nodes
@@ -51,83 +50,74 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     <img src="images\windows instructions\win-select-text.png" alt="selecting text" style="width:720px;">
 
     <button onclick="toggle('gif2')"> Show / Hide Animation </button>
-  <div id="gif2">
-  <img src="images\windows instructions\coding-new-2.gif" alt="coding at new node" style="width:720px;">
-  </div>
-
-    
+    <div id="gif2">
+    <img src="images\windows instructions\coding-new-2.gif" alt="coding at new node" style="width:720px;">
+    </div>
 
     - **Coding at an existing node:** The speaker from Vietnam also talks about increasing temperatures. Right-click the highlighted text, select **Code Selection**, select **increasing temperature** (under the **Codes** heading), and then confirm with the **Code Selection to "increasing temperature"** button at the bottom of the pop up. Alternatively, to achieve the same result you could have selected **Code to Recent Nodes** and selected **increasing temperature**
 
-<button onclick="toggle('gif3')"> Show / Hide Animation </button>
-  <div id="gif3">
-  <img src="images\windows instructions\coding-existing-2.gif" alt="coding at existing node" style="width:720px;">
-  </div>
-
-    
+    <button onclick="toggle('gif3')"> Show / Hide Animation </button>
+    <div id="gif3">
+    <img src="images\windows instructions\coding-existing-2.gif" alt="coding at existing node" style="width:720px;">
+    </div>
 
     - You can code the same pieces of text as multiple themes. In this same text that we coded as "increasing temperature" from the Australian speaker, they also mention coral bleaching. Create a new node for this topic and recode this sentence
 
-<button onclick="toggle('gif4')"> Show / Hide Animation </button>
-  <div id="gif4">
-  <img src="images\windows instructions\coding-multi-themes-2.gif" alt="recoding text" style="width:720px;">
-  </div>
+    <button onclick="toggle('gif4')"> Show / Hide Animation </button>
+    <div id="gif4">
+    <img src="images\windows instructions\coding-multi-themes-2.gif" alt="recoding text" style="width:720px;">
+    </div>
 
-    
+    - **Quick Coding Bar:** The coding bar at the bottom of the workspace can be a quick way to code text. Select the text in your file you wish to code. On the quick coding bar, type the name of a new or existing node (as you start typing, the names of nodes will start to show up), and then click enter on your keyboard
 
-- **Quick Coding Bar:** The coding bar at the bottom of the workspace can be a quick way to code text. Select the text in your file you wish to code. On the quick coding bar, type the name of a new or existing node (as you start typing, the names of nodes will start to show up), and then click enter on your keyboard
     - **Highlighting Codes:** To see what portions of text in your document have been coded, in the top ribbon under the **Document** tab (that should in this case display "SouthChinaMorningPost_2019-07-18") click the **Highlight** icon and select **All Coding**. If you want to only see specific codes highlighted in the text, select **Coding for Selected Items** and pick from the list displayed, then click **OK**
 
-<button onclick="toggle('gif5')"> Show / Hide Animation </button>
-  <div id="gif5">
-  <img src="images\windows instructions\highlight-code-2.gif" alt="highlighting" style="width:720px;">
-  </div>
+    <button onclick="toggle('gif5')"> Show / Hide Animation </button>
+    <div id="gif5">
+    <img src="images\windows instructions\highlight-code-2.gif" alt="highlighting" style="width:720px;">
+    </div>
 
-    
+    - **Coding Density:** To get a visual sense of the coding density of your nodes and spot patterns in the distribution of topics, turn on coding stripes. Make sure the "SouthChinaMorningPost_2019-07-18.pdf" file is visible in the detail pane. In the top ribbon, select the **Document** tab as before, click the **Coding Stripes** icon and, in the drop-down menu, select **All**
 
-- **Coding Density:** To get a visual sense of the coding density of your nodes and spot patterns in the distribution of topics, turn on coding stripes. Make sure the "SouthChinaMorningPost_2019-07-18.pdf" file is visible in the detail pane. In the top ribbon, select the **Document** tab as before, click the **Coding Stripes** icon and, in the drop-down menu, select **All**
+    <button onclick="toggle('gif6')"> Show / Hide Animation </button>
+    <div id="gif6">
+    <img src="images\windows instructions\coding-density-2.gif" alt="coding density" style="width:720px;">
+    </div>
 
-<button onclick="toggle('gif6')"> Show / Hide Animation </button>
-  <div id="gif6">
-  <img src="images\windows instructions\coding-density-2.gif" alt="coding density" style="width:720px;">
-  </div>
-
-    
-
-- **Key Themes:** Continue coding the rest of this document by creating nodes and applying them to the sentences they are contained in. Identify themes related to:
+    - **Key Themes:** Continue coding the rest of this document by creating nodes and applying them to the sentences they are contained in. Identify themes related to:
         - i.   Impacts
         - ii.  Barriers
         - iii. Solutions
     - Aim to identify at least 3 to 5 themes in each response. If you need to remove codes, highlight the piece of text, right-click and select **Uncode**. Select the code you wish to remove your selection from and click **OK**
 
-<button onclick="toggle('gif7')"> Show / Hide Animation </button>
-  <div id="gif7">
-  <img src="images\windows instructions\uncode-2.gif" alt="uncoding" style="width:720px;">
-  </div>
+    <button onclick="toggle('gif7')"> Show / Hide Animation </button>
+    <div id="gif7">
+    <img src="images\windows instructions\uncode-2.gif" alt="uncoding" style="width:720px;">
+    </div>
 
+    - **Create Node Hierarchies:** As you create more and more nodes, you may start to see a hierarchy of themes emerge. You can group nodes into parent or child categories. Using the "Impact", "Bariers", and "Solutions" themes, organize your nodes into a hierarchy. To do so, first create a new node titled "Barriers". Double click the **Codes** icon in the navigation pane to display it in the file list pane. Click the **Code** icon in the top ribbon under the **Create** tab. In the **New Code** dialogue box that appears, name a new node "Barriers"
 
-- **Create Node Hierarchies:** As you create more and more nodes, you may start to see a hierarchy of themes emerge. You can group nodes into parent or child categories. Using the "Impact", "Bariers", and "Solutions" themes, organize your nodes into a hierarchy. To do so, first create a new node titled "Barriers". Double click the **Codes** icon in the navigation pane to display it in the file list pane. Click the **Code** icon in the top ribbon under the **Create** tab. In the **New Code** dialogue box that appears, name a new node "Barriers"
     - With your nodes list displayed in the file list pane, you can select and then drag and drop the child nodes representing barriers onto the parent node to create a hierarchy. Repeat for nodes representing Impacts and Solutions
+
     - **Note:** In the Windows version of NVivo, if nothing is selected in the File List Pane, clicking and dragging will select multiple entries. If you wish to click and drag one item, you must first click it once to select it and then click and drag it from one location to the next
+
     - It can be helpful to group references from all child nodes together under a parent theme. To copy the coding from the child nodes to the parent node, in the list view right-click the parent node and select **Aggregate Coding from Children**
 
-<button onclick="toggle('gif8')"> Show / Hide Animation </button>
-  <div id="gif8">
-  <img src="images\windows instructions\create-hierarchy-2.gif" alt="code hierarchies" style="width:720px;">
-  </div>
+    <button onclick="toggle('gif8')"> Show / Hide Animation </button>
+    <div id="gif8">
+    <img src="images\windows instructions\create-hierarchy-2.gif" alt="code hierarchies" style="width:720px;">
+    </div>
 
-    
+    - **Removing Child Nodes:** To remove a child node from a hierarchy, drag the child node to the **Codes** icon in the navigation pane
 
- - **Removing Child Nodes:** To remove a child node from a hierarchy, drag the child node to the **Codes** icon in the navigation pane
+    <button onclick="toggle('gif9')"> Show / Hide Animation </button>
+    <div id="gif9">
+    <img src="images\windows instructions\undo-hierarchy-2.gif" alt="undo code hierarchies" style="width:720px;">
+    </div>
 
-<button onclick="toggle('gif9')"> Show / Hide Animation </button>
-  <div id="gif9">
-   <img src="images\windows instructions\undo-hierarchy-2.gif" alt="undo code hierarchies" style="width:720px;">
-  </div>
-
-   
-- **Viewing node references:** To view all the pieces of text coded at a given node, from the **Codes** list double click the desired node. This will open up a window in the detail pane with all the references.
+    - **Viewing node references:** To view all the pieces of text coded at a given node, from the **Codes** list double click the desired node. This will open up a window in the detail pane with all the references.
     - Time permitting, repeat the above exercise for the "WashingtonPost_2020-02-03.pdf" file, continuing to use and build upon your themes hierarchy
+
 
 4. ***Word frequency queries***
     - Running a word frequency query can help you establish nodes prior to coding and give you a sense of the content of your file. Click the **Explore** tab in the Top Ribbon, and then click the **Word Frequency** icon
@@ -140,12 +130,11 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     - Right-click terms you want to exclude from your results and select **Add to Stop Words List**. To view words in the stop word list, click the **File** tab then **Project Properties**. On the **General** tab click the **Stop Words** button
     - To save the query, click the **Save Criteria...** button. The results will be saved in the **Query Criteria** folder under the **Queries** heading in the navigation pane
 
-<button onclick="toggle('gif10')"> Show / Hide Animation </button>
-  <div id="gif10">
-   <img src="images\windows instructions\word-freq-query-2.gif" alt="word frequency query" style="width:720px;">
-  </div>
+    <button onclick="toggle('gif10')"> Show / Hide Animation </button>
+    <div id="gif10">
+    <img src="images\windows instructions\word-freq-query-2.gif" alt="word frequency query" style="width:720px;">
+    </div>
 
-    
 
 5. ***Text search queries***
     - Text search queries allow you to search for particular words or phrases within and across the documents you have imported into NVivo. Click the **Explore** tab in the Top Ribbon and then click the **Text Search** icon
@@ -159,12 +148,11 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     - Double click the copy of the file listed below the **Text Search Criteria**. The words in the search string are now highlighted within the context of the document
     - To code the highlighted text, in the **Text Search Query** click **Save Results**. In the dialogue box that appears, select **Create Results as New Code or Case**. Next to **Location** click the arrow then select **Codes**. Give it an appropriate title and then press **OK**
 
-<button onclick="toggle('gif11')"> Show / Hide Animation </button>
-  <div id="gif11">
-   <img src="images\windows instructions\text-search-query-2.gif" alt="text query" style="width:720px;">
-  </div>
+    <button onclick="toggle('gif11')"> Show / Hide Animation </button>
+    <div id="gif11">
+    <img src="images\windows instructions\text-search-query-2.gif" alt="text query" style="width:720px;">
+    </div>
 
-    
 
 6. ***Matrix coding queries***
     - Matrix coding queries enable you to see coding intersections between two lists of items. For example, let's explore how our Impact codes intersect with countries
@@ -173,31 +161,31 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     - The resulting matrix shows counts of which impacts were raised by speakers from different countries
     - To save the query, click the **Save Criteria...** button. The results will be saved in the **Query Results** folder under the **Queries** heading in the navigation pane
 
-<button onclick="toggle('gif12')"> Show / Hide Animation </button>
-  <div id="gif12">
-     <img src="images\windows instructions\matrix-coding-query-2.gif" alt="matrix query" style="width:720px;">
-  </div>
+    <button onclick="toggle('gif12')"> Show / Hide Animation </button>
+    <div id="gif12">
+    <img src="images\windows instructions\matrix-coding-query-2.gif" alt="matrix query" style="width:720px;">
+    </div>
 
-  
- <img src="images\windows instructions\win-matrix-menu.PNG" alt="matrix query result example" style="width:720px;">
+
+    <img src="images\windows instructions\win-matrix-menu.PNG" alt="matrix query result example" style="width:720px;">
 
 7. ***Creating Visualizations***
     - **Visualizing Query Results:** NVivo automatically creates visualizations for queries. Re-open your saved word frequency query. On the right-side of the results summary, tabs indicating **Word Cloud** and **Tree Map** are available
     - For matrix queries and crosstab queries, you can display your results as a chart. Re-open your saved matrix query. On the right-side of the results summary click the **Chart** tab. By default, NVivo will create a 3D visualization to represent your results. This can be changed or customized using the **Chart** tools displayed on the Top Ribbon
 
-<button onclick="toggle('gif13')"> Show / Hide Animation </button>
-  <div id="gif13">
-     <img src="images\windows instructions\visualizations-2.gif" alt="creating a visualization" style="width:720px;">
-  </div>
+    <button onclick="toggle('gif13')"> Show / Hide Animation </button>
+    <div id="gif13">
+    <img src="images\windows instructions\visualizations-2.gif" alt="creating a visualization" style="width:720px;">
+    </div>
 
-
-    
 
 8. ***Exporting materials***
     - **Reports and Extracts:** NVivo automatically generates a series of reports to summarize your work. In the navigation pane, expand the **Output** heading. Two options should be listed: reports and extracts. Reports are meant to be read as documents, whereas extracts can be imported into spreadsheets
     - Click the **Reports** icon in the navigation pane. A series of reporting options should appear in the file list pane. Let's create a report summarizing our coding scheme. Click **Coding Summary by Code Report**. In the **Filter Options** dialogue box that appears, click **OK**. In the detail pane, a document should open, which summarizes information on each of the codes in the hierarchy and lists the coded text
     - For comparison, click the **Extracts** icon in the navigation pane. Click **Coding Summary by Code Report** in the file list pane. In the **Filter Options** dialogue box that appears, click **Okay**. NVivo will ask you to save this document locally as a \*.txt file. This file can now be opened by programs like Excel. Column structure is maintained by comma delineation
     - **Individual Item Export:** You can also export the codebook and other content generated in NVivo as individual files. In the navigation pane under **Codes**, right-click **Nodes** and select **Export Codebook**. In the dialogue box that appears, you can browse to select where to save the file. You can choose to save the file either in MS Word format (\*.docx) or MS Excel (\*.xlsx)
+
+
 9. ***Saving your workspace***
     - Your workspace is saved by NVivo as a \*.nvp file. All of your files and outputs are saved as part of your workspace. to save, click **File** above the top ribbon, then select **Save**. If you need to copy your workspace to another location, click **File** and then select **Copy Project**
     - To review your actions taken in the workshop, click **File** above the top ribbon, then click **Open Project Event Log**
