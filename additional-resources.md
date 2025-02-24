@@ -12,6 +12,10 @@ nav_order: 10
 - [Research Methods in Phychology - Qualitative Research](https://opentextbc.ca/researchmethods/chapter/qualitative-research/){:target="_blank"} - An Open Textbook chapter.
 - [Coding Qualitative Data](https://www.youtube.com/watch?v=lYzhgMZii3o){:target="_blank"} (9 min)
 
+## Qualitative Coding with Generative AI Workshop
+
+- [Generative AI for Research: Qualitative Coding](https://uviclibraries.github.io/genai-research-tools-adv/5-qual-coding.html#generative-ai-for-research-qualitative-coding)
+
 ## NVivo Resources
 
 - [NVivo User Guide](https://www.qsrinternational.com/nvivo-qualitative-data-analysis-software/support-services/nvivo-help){:target="_blank"}
