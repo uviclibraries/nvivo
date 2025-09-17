@@ -13,7 +13,9 @@ nav_order: 1
 
 ## Why NVivo?
 
-[NVivo](https://www.qsrinternational.com/nvivo-qualitative-data-analysis-software/home) is software that runs locally on researchers' computers and helps them organize and analyze non-numerical or unstructured data. In this introductory workshop, participants will learn about the uses and benefits of working with qualitative data analysis software, how to navigate the NVIVO workspace, and how to import and export data. Using sample materials, participants will gain hands-on experience creating codes, nodes, and queries.  
+[NVivo](https://www.qsrinternational.com/nvivo-qualitative-data-analysis-software/home) is software that runs locally on researchers' computers and helps them organize and analyze non-numerical or unstructured data. In this introductory workshop, participants will learn about the uses and benefits of working with qualitative data analysis software, how to navigate the NVIVO workspace, and how to import and export data. Using sample materials, participants will gain hands-on experience creating codes, nodes, and queries. 
+
+**Please note that as of September 1, 2025, there is an annual fee of $100 for UVic graduate students, faculty, and staff to use NVivo.**
 
 ## Learning objectives
 
