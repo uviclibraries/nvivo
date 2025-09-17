@@ -7,7 +7,7 @@ nav_order: 1
 
 # Qualitative Data Curation & Analysis with NVivo
 
-- Pre-workshop activities: 15 min 
+- Pre-workshop activities: 16 min 
 - Introductory presentation: 10 min
 - Hands-on activities: 50 min
 
