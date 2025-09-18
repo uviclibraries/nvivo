@@ -17,6 +17,11 @@ nav_order: 1
 
 **Please note that as of September 1, 2025, there is an annual fee of $100 for UVic graduate students, faculty, and staff to use NVivo.**
 
+## Get NVivo 
+
+UVic graduate students, faculty, and staff are now required to obtain their own NVivo license. [Purchase license here.](https://www.uvic.ca/systems/services/pages/analytics-and-bi.php#ipn-nvivo) Note that license requests require approval, which may take up to a week to process. 
+
+
 ## Learning objectives
 
 At the end of this workshop, you will be able to:
