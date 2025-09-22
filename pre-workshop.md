@@ -7,7 +7,7 @@ nav_order: 2
 This workshop is primarily hands-on practice with NVivo in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
 
 - **REQUIRED:** Install NVivo on your computer:
-  - If you are a UVic graduate student, faculty member, or staff, you can download the software and license file from Online Services (link is provided in the approval email from the UVic Computer Help Desk). Once you receive confirmation of approval for the license, log in to Online Services, download the Mac or Windows version of the software, and retrieve the license code contained within the Online Services website.
+  - If you are a UVic graduate student, faculty member, or staff, you can download the software and the license file from **Online Services** (link is provided in the approval email from the UVic Computer Help Desk). Once you receive confirmation of approval for the license, log in to Online Services, download the Mac or Windows version of the software, and retrieve the license file, which contains the license code, from the Online Services website.
   ![Screenshot of Online Services download page](images/preworkshop.png) <br>
   **-OR-** <br>
   - You can download an NVivo trial version by [following this link](https://lumivero.com/resources/free-trial/nvivo/){:target="_blank"} <br>
