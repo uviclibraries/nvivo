@@ -7,10 +7,10 @@ nav_order: 2
 This workshop is primarily hands-on practice with NVivo in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
 
 - **REQUIRED:** Install NVivo on your computer:
-  - If you are a UVic graduate student or faculty member, please download a [UVic licsensed version of NVivo](https://uvic.onthehub.com/WebStore/Security/SignIn.aspx?rurl=%2fWebStore%2fProductsByMajorVersionList.aspx%3f){:target="_blank"} **-OR-** 
-  - If you are not a graduate student or facutly member, please install a NVivo trial version onto your laptop/computer by [following this link](https://portal.mynvivo.com/shop/trial?plt=34.2.1.15.0&_ga=2.43385251.728014482.1607453245-1282095809.1600286856){:target="_blank"} (5-10 min)<br>
-- **OPTIONAL:** [Installing NVivo Step by Step](https://www.youtube.com/watch?v=o8hqZ6i43dY){:target="_blank"} video (3 min)<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o8hqZ6i43dY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  - If you are a UVic graduate student, faculty member, or staff, you can download the software and license file from Online Services (link is provided in the approval email from the UVic Computer Help Desk). Once you receive confirmation of approval for the license, log in to Online Services, download the Mac or Windows version of the software, and retrieve the license code contained within the Online Services website. [Insert screenshot] <br>
+  **-OR-** <br>
+  - You can download an NVivo trial version by [following this link](https://lumivero.com/resources/free-trial/nvivo/){:target="_blank"} <br>
+
 - **OPTIONAL:** [Introduction to NVivo](https://www.youtube.com/watch?v=QNjEygXM_bE){:target="_blank"} video (7 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QNjEygXM_bE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
