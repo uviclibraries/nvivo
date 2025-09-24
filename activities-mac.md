@@ -67,7 +67,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     <img src="images\mac instructions\multi-themes.gif" alt="coding multiple themes" style="width:720px;">
     </div>
 
-    - **Highlighting Codes:** To see what portions of text in your document have been coded, at the top of the detail pane, click the **Highlight** icon and select **All Coding**. If you want to only see specific codes highlighted in the text, select **Coding for Selected Items** and pick from the list displayed, then click **Okay**
+    - **Highlighting Codes:** To see what portions of text in your document have been coded, at the top of the detail pane, click the **Highlight** icon and select **All Coding**. If you want to only see specific codes highlighted in the text, select **Coding for Selected Items** and pick from the list displayed, then click **Select**
     
     <button onclick="toggle('gif5')"> Show / Hide Animation </button>
     <div id="gif5">
@@ -116,7 +116,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 4. ***Word frequency queries***
     - Running a word frequency query can help you establish nodes prior to coding and give you a sense of the content of your file. Click the **Explore** tab in the Top Ribbon, and then click the **Word Frequency** icon
-    - The **Word Frequency Criteria** menu opens in a new window. Click the **Search in Selected Items** button to choose which file(s) to search. In the dialogue box that appears, select the "WashingtonPost_2020-02-03.pdf" file, then click **Okay**
+    - The **Word Frequency Criteria** menu opens in a new window. Click the **Search in Selected Items** button to choose which file(s) to search. In the dialogue box that appears, select the "WashingtonPost_2020-02-03.pdf" file, then click **Select**
     - In the **Word Frequency Criteria** menu, you can adjust the parameters of your search, including the number of results to display, the minimum word character length for inclusion in the search, and how to group similar words together in the search. Click **Run Query** to execute the word frequency calculation. How do the results compare with your nodes?
     
     <img src="images\mac instructions\word-frequency.png" alt="word frequency query" style="width:720px;">
