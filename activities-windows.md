@@ -43,9 +43,10 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     </div>
 
 
-3. ***Coding text files with nodes***
-    - Double click the "SouthChinaMorningPost_2019-07-18.pdf" file to display it in the detail pane. Read through the document and keep an eye out for key issues and themes brought up by each of the speakers in the 9 countries covered. In the following steps we will code and organize themes identified in the document by creating a series of nodes
-    - **Coding at a new node:** The speaker from Australia mentions increasing summer temperatures. To create a node representing this theme, highlight the related sentence, right-click the highlighted text and select **Code Selection**. In the **Select Code Items** dialogue box that appears, select **Codes** and then, under the **Create New:** heading, select **Top Level Code**. Title your new node "increasing temperature"
+3. ***Coding text files with codes***
+    - Codes are labels that help you group together pieces of data that relate to the same idea, theme, or concept.
+    - Double click the "SouthChinaMorningPost_2019-07-18.pdf" file to display it in the detail pane. Read through the document and keep an eye out for key issues and themes brought up by each of the speakers in the 9 countries covered. In the following steps we will code and organize themes identified in the document by creating a series of codes
+    - **Coding at a new code:** The speaker from Australia mentions increasing summer temperatures. To create a code representing this theme, highlight the related sentence, right-click the highlighted text and select **Code Selection**. In the **Select Code Items** dialogue box that appears, select **Codes** and then, under the **Create New:** heading, select **Top Level Code**. Title your new code "increasing temperature"
 
     <img src="images\windows instructions\win-select-text.png" alt="selecting text" style="width:720px;">
 
@@ -54,21 +55,21 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     <img src="images\windows instructions\coding-new-2.gif" alt="coding at new node" style="width:720px;">
     </div>
 
-    - **Coding at an existing node:** The speaker from Vietnam also talks about increasing temperatures. Right-click the highlighted text, select **Code Selection**, select **increasing temperature** (under the **Codes** heading), and then confirm with the **Code Selection to "increasing temperature"** button at the bottom of the pop up. Alternatively, to achieve the same result you could have selected **Code to Recent Nodes** and selected **increasing temperature**
+    - **Coding at an existing code:** The speaker from Vietnam also talks about increasing temperatures. Right-click the highlighted text, select **Code Selection**, select **increasing temperature** (under the **Codes** heading), and then confirm with the **Code Selection to "increasing temperature"** button at the bottom of the pop up. Alternatively, to achieve the same result you could have selected **Code to Recent Codes** and selected **increasing temperature**
 
     <button onclick="toggle('gif3')"> Show / Hide Animation </button>
     <div id="gif3">
     <img src="images\windows instructions\coding-existing-2.gif" alt="coding at existing node" style="width:720px;">
     </div>
 
-    - You can code the same pieces of text as multiple themes. In this same text that we coded as "increasing temperature" from the Australian speaker, they also mention coral bleaching. Create a new node for this topic and recode this sentence
+    - You can code the same pieces of text as multiple themes. In this same text that we coded as "increasing temperature" from the Australian speaker, they also mention coral bleaching. Create a new code for this topic and recode this sentence
 
     <button onclick="toggle('gif4')"> Show / Hide Animation </button>
     <div id="gif4">
     <img src="images\windows instructions\coding-multi-themes-2.gif" alt="recoding text" style="width:720px;">
     </div>
 
-    - **Quick Coding Bar:** The coding bar at the bottom of the workspace can be a quick way to code text. Select the text in your file you wish to code. On the quick coding bar, type the name of a new or existing node (as you start typing, the names of nodes will start to show up), and then click enter on your keyboard
+    - **Quick Coding Bar:** The coding bar at the bottom of the workspace can be a quick way to code text. Select the text in your file you wish to code. On the quick coding bar, type the name of a new or existing code (as you start typing, the names of codes will start to show up), and then click enter on your keyboard
 
     - **Highlighting Codes:** To see what portions of text in your document have been coded, in the top ribbon under the **Document** tab (that should in this case display "SouthChinaMorningPost_2019-07-18") click the **Highlight** icon and select **All Coding**. If you want to only see specific codes highlighted in the text, select **Coding for Selected Items** and pick from the list displayed, then click **OK**
 
@@ -77,52 +78,54 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     <img src="images\windows instructions\highlight-code-2.gif" alt="highlighting" style="width:720px;">
     </div>
 
-    - **Coding Density:** To get a visual sense of the coding density of your nodes and spot patterns in the distribution of topics, turn on coding stripes. Make sure the "SouthChinaMorningPost_2019-07-18.pdf" file is visible in the detail pane. In the top ribbon, select the **Document** tab as before, click the **Coding Stripes** icon and, in the drop-down menu, select **All**
+    - **Coding Density:** Coding density is a visual indicator that shows how much of a section of text has been coded. To get a visual sense of the coding density of your codes and spot patterns in the distribution of topics, turn on coding stripes. Make sure the "SouthChinaMorningPost_2019-07-18.pdf" file is visible in the detail pane. In the top ribbon, select the **Document** tab as before, click the **Coding Stripes** icon and, in the drop-down menu, select **All**
 
     <button onclick="toggle('gif6')"> Show / Hide Animation </button>
     <div id="gif6">
     <img src="images\windows instructions\coding-density-2.gif" alt="coding density" style="width:720px;">
     </div>
 
-    - **Key Themes:** Continue coding the rest of this document by creating nodes and applying them to the sentences they are contained in. Identify themes related to:
+    - **Key Themes:** Continue coding the rest of this document by creating codes and applying them to the sentences they are contained in. Identify themes related to:
         - i.   Impacts
         - ii.  Barriers
         - iii. Solutions
-    - Aim to identify at least 3 to 5 themes in each response. If you need to remove codes, highlight the piece of text, right-click and select **Uncode**. Select the code you wish to remove your selection from and click **OK**
+    - Aim to identify at least 3 to 5 themes in each response.
+    - **Removing code:** If you need to remove codes, highlight the piece of text, right-click and select **Uncode**. Select the code you wish to remove your selection from and click **OK**
 
     <button onclick="toggle('gif7')"> Show / Hide Animation </button>
     <div id="gif7">
     <img src="images\windows instructions\uncode-2.gif" alt="uncoding" style="width:720px;">
     </div>
 
-    - **Create Node Hierarchies:** As you create more and more nodes, you may start to see a hierarchy of themes emerge. You can group nodes into parent or child categories. Using the "Impact", "Bariers", and "Solutions" themes, organize your nodes into a hierarchy. To do so, first create a new node titled "Barriers". Double click the **Codes** icon in the navigation pane to display it in the file list pane. Click the **Code** icon in the top ribbon under the **Create** tab. In the **New Code** dialogue box that appears, name a new node "Barriers"
+    - **Create Code Hierarchies:** As you create more and more modes, you may start to see a hierarchy of themes emerge. You can group codes into parent or child categories. Using the "Impact", "Bariers", and "Solutions" themes, organize your codes into a hierarchy. To do so, first create a new code titled "Barriers". Double click the **Codes** icon in the navigation pane to display it in the file list pane. Click the **Code** icon in the top ribbon under the **Create** tab. In the **New Code** dialogue box that appears, name a new code "Barriers"
 
-    - With your nodes list displayed in the file list pane, you can select and then drag and drop the child nodes representing barriers onto the parent node to create a hierarchy. Repeat for nodes representing Impacts and Solutions
+    - With your codes list displayed in the file list pane, you can select and then drag and drop the child codes representing barriers onto the parent code to create a hierarchy. Repeat for codes representing Impacts and Solutions
 
         - **Note:** In the Windows version of NVivo, if nothing is selected in the File List Pane, clicking and dragging will select multiple entries. If you wish to click and drag one item, you must first click it once to select it and then click and drag it from one location to the next
 
-    - It can be helpful to group references from all child nodes together under a parent theme. To copy the coding from the child nodes to the parent node, in the list view right-click the parent node and select **Aggregate Coding from Children**
+    - It can be helpful to group references from all child codes together under a parent theme. To copy the coding from the child codes to the parent code, in the list view right-click the parent code and select **Aggregate Coding from Children**
 
     <button onclick="toggle('gif8')"> Show / Hide Animation </button>
     <div id="gif8">
     <img src="images\windows instructions\create-hierarchy-2.gif" alt="code hierarchies" style="width:720px;">
     </div>
 
-    - **Removing Child Nodes:** To remove a child node from a hierarchy, drag the child node to the **Codes** icon in the navigation pane
+    - **Removing Child Codes:** To remove a child code from a hierarchy, drag the child code to the **Codes** icon in the navigation pane
 
     <button onclick="toggle('gif9')"> Show / Hide Animation </button>
     <div id="gif9">
     <img src="images\windows instructions\undo-hierarchy-2.gif" alt="undo code hierarchies" style="width:720px;">
     </div>
 
-    - **Viewing node references:** To view all the pieces of text coded at a given node, from the **Codes** list double click the desired node. This will open up a window in the detail pane with all the references.
+    - **Viewing code references:** To view all the pieces of text coded at a given code, from the **Codes** list double click the desired code. This will open up a window in the detail pane with all the references.
         - Time permitting, repeat the above exercise for the "WashingtonPost_2020-02-03.pdf" file, continuing to use and build upon your themes hierarchy
 
 
 4. ***Word frequency queries***
-    - Running a word frequency query can help you establish nodes prior to coding and give you a sense of the content of your file. Click the **Explore** tab in the Top Ribbon, and then click the **Word Frequency** icon
+    - Word frequency queries show you the most commonly used words in a document, helping you get an initial sense of key topics and potential codes before you begin coding. 
+    - Running a word frequency query can help you establish codes prior to coding and give you a sense of the content of your file. Click the **Explore** tab in the Top Ribbon, and then click the **Word Frequency** icon
     - The **Word Frequency Criteria** menu opens in a new window. Click the **Selected Items...** button to choose which file(s) to search. In the dialogue box that appears, select the "WashingtonPost_2020-02-03.pdf" file, then click **OK**
-    - In the **Word Frequency Criteria** menu, you can adjust the parameters of your search, including the number of results to display, the minimum word character length for inclusion in the search, and how to group similar words together in the search. Click **Run Query** to execute the word frequency calculation. How do the results compare with your nodes?
+    - In the **Word Frequency Criteria** menu, you can adjust the parameters of your search, including the number of results to display, the minimum word character length for inclusion in the search, and how to group similar words together in the search. Click **Run Query** to execute the word frequency calculation. How do the results compare with your codes?
 
     <img src="images\windows instructions\win-wrd-freq-menu.png" alt="word frequency query menu" style="width:720px;">
 
@@ -141,7 +144,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     - The **Text Search Criteria** menu opens in a new window. Click the **Selected Items...** button to choose which file(s) to search. In the **Select Project Items** dialogue box that appears, select the "WashingtonPost_2020-02-03.pdf" text file, then click **OK**
     - Open the **Codes** list in the list view pane. Let's see whether any of the themes we identified in the first interview are also discussed in the second interview
     - Enter the term "drought" into the text box and click **Run Query**. 1 reference should be found
-    - Play around with some of your other nodes and search options: with stemmed words, with synonyms etc. Some samples to try including: disaster, displace, lobby, activism, coral, etc.
+    - Play around with some of your other codes and search options: with stemmed words, with synonyms etc. Some samples to try including: disaster, displace, lobby, activism, coral, etc.
 
     <img src="images\windows instructions\win-txt-menu.png" alt="text search query menu" style="width:720px;">
 
@@ -156,8 +159,8 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 6. ***Matrix coding queries***
     - Matrix coding queries enable you to see coding intersections between two lists of items. For example, let's explore how our Impact codes intersect with countries
-    - First create nodes for each country represented in the sources and apply each of them to the related text
-    - Under the **Explore** tab, click **Matrix Coding Query**. Search in **Files & Externals**. Set "Coding at rows **AND** columns". Select, drag, and drop all of the Country child nodes into the Rows and drag and drop all of the Impact child nodes into the Columns text boxes. Then, select **Run Query**
+    - First create codes for each country represented in the sources and apply each of them to the related text
+    - Under the **Explore** tab, click **Matrix Coding Query**. Search in **Files & Externals**. Set "Coding at rows **AND** columns". Select, drag, and drop all of the Country child codes into the Rows and drag and drop all of the Impact child codes into the Columns text boxes. Then, select **Run Query**
     - The resulting matrix shows counts of which impacts were raised by speakers from different countries
     - To save the query, click the **Save Criteria...** button. The results will be saved in the **Query Results** folder under the **Queries** heading in the navigation pane
 
