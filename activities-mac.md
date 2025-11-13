@@ -30,6 +30,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     - Download the two workshop activity files from [this directory](https://bit.ly/DSC_NVIVO_Activity_1_Files){:target="_blank"}
     - Select the **Import** tab on the top ribbon, and then **Files**, and then from the drop-down menu choose **Documents**
     - Navigate to the two files you just downloaded. Select the two text files and click **Import**
+    - In the **File List Pane**, you’ll see the files you just imported.
     
     <button onclick="toggle('gif1')"> Show / Hide Animation </button>
     <div id="gif1">
