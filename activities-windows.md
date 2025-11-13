@@ -31,6 +31,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     - Select the **Import** tab on the top ribbon and then select **Files**
     - Navigate to the two files you saved to your computer. Select the two PDFs and click **Open**
     - On the **Import Files** dialogue box that appears, select **Import**
+    - In the **File List Pane**, you’ll see the files you just imported.
     
     <button onclick="toggle('gif1')"> Show / Hide Animation </button>
     <div id="gif1">
