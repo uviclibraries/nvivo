@@ -31,11 +31,6 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     - Select the **Import** tab on the top ribbon and then select **Files**
     - Navigate to the two files you saved to your computer. Select the two PDFs and click **Open**
     - On the **Import Files** dialogue box that appears, select **Import**
-    - In the file list pane you'll see the files listed. Icons indicate the file type:
-
-    **text file:**<img src="images\icon-txt.png" alt="text icon" style="width:30px;">
-    **audio file:**<img src="images\icon-aud.png" alt="audio icon" style="width:30px;">
-    **pdf file:**<img src="images\icon-pdf.png" alt="pdf icon" style="width:30px;">
     
     <button onclick="toggle('gif1')"> Show / Hide Animation </button>
     <div id="gif1">
