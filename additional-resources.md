@@ -18,10 +18,12 @@ nav_order: 10
 
 ## NVivo Resources
 
-- [NVivo User Guide](https://www.qsrinternational.com/nvivo-qualitative-data-analysis-software/support-services/nvivo-help){:target="_blank"}
+-   [Essential qualitative coding techniques in NVivo: Best practices for new researchers] (https://lumivero.com/resources/blog/essential-qualitative-coding-techniques-nvivo/){:target="_blank"}
+-   NVivo [Knowledge Base](https://community.lumivero.com/s/nvivo-knowledge-base?language=en_US){:target="_blank"}
 - Georgia State University Guides:
   - [Getting Started](https://research.library.gsu.edu/ld.php?content_id=43073472){:target="_blank"}
   - [Exploring Your Data](https://research.library.gsu.edu/ld.php?content_id=43239598){:target="_blank"}
+    
 
 ## Acknowledgements
 
