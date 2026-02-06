@@ -23,7 +23,11 @@ nav_order: 10
 - Georgia State University Guides:
   - [Getting Started](https://research.library.gsu.edu/ld.php?content_id=43073472){:target="_blank"}
   - [Exploring Your Data](https://research.library.gsu.edu/ld.php?content_id=43239598){:target="_blank"}
-    
+
+## Free Alternatives 
+
+-   [Taguette – open-source web-based QDA](https://www.taguette.org/){:target="_blank"}
+-   RQDA (R package) – for text coding in R 
 
 ## Acknowledgements
 
