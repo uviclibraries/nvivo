@@ -1,5 +1,5 @@
 title: Data Analysis with NVivo
-remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs 
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_repository: "https://github.com/uviclibraries/nvivo" # the github URL for your repo
