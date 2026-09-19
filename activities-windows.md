@@ -11,7 +11,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 <img src="images\windows instructions\win-new-proj.PNG" alt="new project button" style="float:right;width:360px;">
 
 1. ***Creating a project and navigating the workspace***
-    - Open NVivo and select **Blank Project**
+    - Open NVivo and select **New Project**
     
     <img src="images\windows instructions\win-new-proj-menu.PNG" alt="new project menu" style="float:right;width:360px;">
     
@@ -20,7 +20,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     - Check the box next to **Keep a log of user actions** (this will keep track of your methodology and retrace your steps later on). Click **OK** when finished<br>
     **There are 4 key areas of the NVivo workspace:**
         - Top Ribbon - all of the commands and options in NVivo are found here
-        - Navigation Pane - where you view and organize your files
+        - Navigation View/Pane - where you view and organize your files
         - File List Pane - displays contents of folders selected in the navigation pane
         - Detail Pane - displays contents of files and project items
 
