@@ -17,7 +17,7 @@ nav_order: 1
 
 ## Get NVivo 
 
-UVic graduate students, faculty, and staff are now required to obtain their own NVivo license. [You can purchase a license here.](https://www.uvic.ca/systems/services/pages/analytics-and-bi.php#ipn-nvivo)  
+UVic graduate students, faculty, and staff are now required to obtain their own NVivo license. [You can request a license here.](https://www.uvic.ca/systems/services/pages/analytics-and-bi.php#ipn-nvivo)  
 
 Alternatively, you can [download a trial version of the software.](https://lumivero.com/resources/free-trial/nvivo/) The trial is free for fourteen days.
 
