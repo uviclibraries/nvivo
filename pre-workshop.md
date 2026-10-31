@@ -9,9 +9,15 @@ This workshop is primarily hands-on practice with NVivo in order to learn to use
 - **REQUIRED:** Install NVivo on your computer:
   - You can download an NVivo trial version by [following this link.](https://lumivero.com/resources/free-trial/nvivo/){:target="_blank"} <br>
  **-OR-** <br>
-  - If you are UVic faculty, a graduate student, or another eligible researcher, you can request [access to NVivo](https://www.uvic.ca/systems/services/pages/analytics-and-bi.php#ipn-nvivo) through the [Online Services Portal](https://onlineservices.uvic.ca/). After requesting for the license, you can download the software and access the license information through the Manage Your Services page.
+  - UVic graduate students, faculty, and staff can access NVivo through the [Online Services Portal](https://onlineservices.uvic.ca/).
+  - To activate NVivo:
+     - In **Online Services**, expand “**NVivo – Status: Active”** under **Your Services**.
+     - Click **Manage**.
+     - Download the **NVivo 15 licence file**. If you have not already installed NVivo 15, download and install the appropriate Mac or Windows version.
   ![Screenshot of Online Services download page](images/preworkshop.png) <br>
-  After installing NVivo, open the software and choose **“or provide enterprise key to activate”**. Enter the license code from your license file to complete the activation.
+     - Open **NVivo 15**.
+     - If the Activate NVivo window appears, select “or provide enterprise key to activate.”
+     - Enter the licence key provided in the NVivo 15 licence file.
   ![Screenshot of Online Services download page](images/preworkshop2.png) <br>
 
 
