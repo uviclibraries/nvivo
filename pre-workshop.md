@@ -7,7 +7,7 @@ nav_order: 2
 This workshop is primarily hands-on practice with NVivo in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
 
 - **REQUIRED:** Install NVivo on your computer:
-  - You can download an NVivo trial version by [following this link.](https://lumivero.com/resources/free-trial/nvivo/){:target="_blank"} <br>
+  - You can download an [NVivo trial version.](https://lumivero.com/resources/free-trial/nvivo/){:target="_blank"} <br>
  **-OR-** <br>
   - UVic graduate students, faculty, and staff can access NVivo through the [Online Services Portal](https://onlineservices.uvic.ca/).
   - To activate NVivo:
