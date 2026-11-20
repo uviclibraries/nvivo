@@ -4,7 +4,7 @@ title: Self-Directed Introduction
 nav_order: 0
 parent: Workshop Activities
 ---
-# Hands-On Self-Directed Introduction
+# Introduction for Self-Directed Learners
 
 Please review the following links:
 
